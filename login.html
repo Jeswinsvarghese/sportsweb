@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket Hub | Admin Login</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/admin.css') }}">
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-box">
+            <button id="theme-toggle-button" title="Toggle Theme"></button>
+            <img src="{{ url_for('static', filename='img/logo.jpg') }}" alt="Logo" class="login-logo">
+            <h2>Admin Panel Login</h2>
+            {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    {% for category, message in messages %}
+                        <div class="flash-{{ category }}">{{ message }}</div>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+            <form method="POST" action="{{ url_for('admin_login') }}">
+                <div class="input-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+                </div>
+                <div class="input-group">
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" required>
+                </div>
+                <button type="submit" class="login-btn">Log In</button>
+            </form>
+        </div>
+    </div>
+    <script src="{{ url_for('static', filename='js/theme.js') }}"></script>
+</body>
+</html> 

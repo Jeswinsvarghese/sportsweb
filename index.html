@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cricket Hub | Home</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/news.css') }}">
+  <script src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs" type="module"></script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <a href="{{ url_for('index') }}">
+        <div class="logo">
+          <img src="{{ url_for('static', filename='img/logo.jpg') }}" alt="Cricket Hub Logo" class="logo-img">
+        </div>
+      </a>
+      <nav>
+        <button class="menu-toggle" aria-label="Toggle navigation">
+          <span class="hamburger-icon"></span>
+        </button>
+        <ul>
+          <li><a href="{{ url_for('index') }}" class="active">Home</a></li>
+          <li><a href="{{ url_for('news') }}">News</a></li>
+          <li><a href="{{ url_for('live_scores') }}">Live Scores</a></li>
+          <li><a href="{{ url_for('search') }}">Search Player</a></li>
+          <li><a href="{{ url_for('team_search') }}">Search Team</a></li>
+          <li><a href="{{ url_for('feedback') }}">Feedback</a></li>
+        </ul>
+        <button id="theme-toggle-button" title="Toggle Theme"></button>
+      </nav>
+    </header>
+
+    <section class="home-hero">
+      <dotlottie-player id="light-theme-animation" src="https://lottie.host/289c43c6-558d-4163-a30e-288eecbe0918/dFRk2OolB2.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+      <dotlottie-player id="dark-theme-animation" src="https://lottie.host/10748ba6-9a5b-4485-beee-394ce2735c82/GiQvJJ8xPB.lottie" background="transparent" speed="1" style="width: 300px; height: 300px" loop autoplay></dotlottie-player>
+      <h1>Welcome to Cricket Hub</h1>
+      <p>Your one-stop destination for sports news, scores, and more.</p>
+    </section>
+
+    <section class="features">
+      <a href="{{ url_for('live_scores') }}" class="card">
+        <h2>Live Scores</h2>
+        <p>Stay updated with real-time match scores and updates.</p>
+      </a>
+      <a href="{{ url_for('search') }}" class="card">
+        <h2>Player Stats</h2>
+        <p>Access detailed stats and profiles of your favorite players.</p>
+      </a>
+      <a href="{{ url_for('news') }}" class="card">
+        <h2>Latest News</h2>
+        <p>Get the latest news from the world of sports.</p>
+      </a>
+    </section>
+
+    <section class="media">
+      <h2>Latest Cricket Highlights</h2>
+      <div class="video-gallery" id="cricket-video-gallery">
+        {% if cricket_videos %}
+          {% for video in cricket_videos %}
+            <div class="video">
+              <iframe width="100%" height="235"
+                src="https://www.youtube.com/embed/{{ video.videoId }}"
+                title="{{ video.title }}" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+            </div>
+          {% endfor %}
+        {% else %}
+          <p>Unable to load videos at this time.</p>
+        {% endif %}
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2025 All rights reserved.</p>
+    </footer>
+  </div>
+
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/news.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/transitions.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/theme.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/nav.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,1989 @@
+{
+    "list": [
+      {
+        "teamName": "League Teams"
+      },
+      {
+        "teamId": 58,
+        "teamName": "Chennai Super Kings",
+        "teamSName": "CSK",
+        "imageId": 225641,
+        "countryName": "India",
+        "belongsTo": "IPL"
+      },
+      {
+        "teamId": 61,
+        "teamName": "Delhi Capitals",
+        "teamSName": "DC",
+        "imageId": 225644,
+        "countryName": "India",
+        "belongsTo": "IPL"
+      },
+      {
+        "teamId": 65,
+        "teamName": "Punjab Kings",
+        "teamSName": "PBKS",
+        "imageId": 225648,
+        "countryName": "India",
+        "belongsTo": "IPL"
+      },
+      {
+        "teamId": 63,
+        "teamName": "Kolkata Knight Riders",
+        "teamSName": "KKR",
+        "imageId": 225646,
+        "countryName": "India",
+        "belongsTo": "IPL"
+      },
+      {
+        "teamId": 62,
+        "teamName": "Mumbai Indians",
+        "teamSName": "MI",
+        "imageId": 225645,
+        "countryName": "India",
+        "belongsTo": "IPL"
+      },
+      {
+        "teamId": 64,
+        "teamName": "Rajasthan Royals",
+        "teamSName": "RR",
+        "imageId": 225647,
+        "countryName": "India",
+        "belongsTo": "IPL"
+      },
+      {
+        "teamId": 59,
+        "teamName": "Royal Challengers Bengaluru",
+        "teamSName": "RCB",
+        "imageId": 225643,
+        "countryName": "India",
+        "belongsTo": "IPL"
+      },
+      {
+        "teamId": 255,
+        "teamName": "Sunrisers Hyderabad",
+        "teamSName": "SRH",
+        "imageId": 225649,
+        "countryName": "India"
+      },
+      {
+        "teamId": 1223,
+        "teamName": "New York Strikers",
+        "teamSName": "NYS",
+        "imageId": 247203
+      },
+      {
+        "teamId": 1228,
+        "teamName": "MI Cape Town",
+        "teamSName": "MICT",
+        "imageId": 248432
+      },
+      {
+        "teamId": 1235,
+        "teamName": "Paarl Royals",
+        "teamSName": "PR",
+        "imageId": 248440
+      },
+      {
+        "teamId": 1242,
+        "teamName": "Durban Super Giants",
+        "teamSName": "DSG",
+        "imageId": 248403
+      },
+      {
+        "teamId": 1249,
+        "teamName": "Joburg Super Kings",
+        "teamSName": "JSK",
+        "imageId": 248422
+      },
+      {
+        "teamId": 1256,
+        "teamName": "Sunrisers Eastern Cape",
+        "teamSName": "SEC",
+        "imageId": 248451
+      },
+      {
+        "teamId": 1263,
+        "teamName": "Pretoria Capitals",
+        "teamSName": "PC",
+        "imageId": 248443
+      },
+      {
+        "teamId": 1123,
+        "teamName": "Gulbarga Mystics",
+        "teamSName": "GBM",
+        "imageId": 338072,
+        "countryName": "India"
+      },
+      {
+        "teamId": 1116,
+        "teamName": "Kandy Falcons",
+        "teamSName": "KDF",
+        "imageId": 248423
+      },
+      {
+        "teamId": 966,
+        "teamName": "Lucknow Super Giants",
+        "teamSName": "LSG",
+        "imageId": 389444,
+        "countryName": "India"
+      },
+      {
+        "teamId": 971,
+        "teamName": "Gujarat Titans",
+        "teamSName": "GT",
+        "imageId": 235085,
+        "countryName": "India"
+      },
+      {
+        "teamId": 976,
+        "teamName": "Minister Group Dhaka",
+        "teamSName": "MGD",
+        "imageId": 248433
+      },
+      {
+        "teamId": 981,
+        "teamName": "Sylhet Sunrisers",
+        "teamSName": "SYSR",
+        "imageId": 248452
+      },
+      {
+        "teamId": 986,
+        "teamName": "India Maharajas",
+        "teamSName": "IMR",
+        "imageId": 242518
+      },
+      {
+        "teamId": 1216,
+        "teamName": "Morrisville Samp Army",
+        "teamSName": "MSA",
+        "imageId": 247200
+      },
+      {
+        "teamId": 991,
+        "teamName": "Asia Lions",
+        "teamSName": "ALN",
+        "imageId": 248393
+      },
+      {
+        "teamId": 996,
+        "teamName": "World Giants",
+        "teamSName": "WGS",
+        "imageId": 242522
+      },
+      {
+        "teamId": 1291,
+        "teamName": "NSW/ACT",
+        "teamSName": "NSW/ACT",
+        "imageId": 248524
+      },
+      {
+        "teamId": 1298,
+        "teamName": "Dubai Capitals",
+        "teamSName": "DCP",
+        "imageId": 249194
+      },
+      {
+        "teamId": 1591,
+        "teamName": "Washington Freedom",
+        "teamSName": "WAF",
+        "imageId": 333488
+      },
+      {
+        "teamId": 1584,
+        "teamName": "San Francisco Unicorns",
+        "teamSName": "SFU",
+        "imageId": 333487
+      },
+      {
+        "teamId": 1577,
+        "teamName": "Texas Super Kings",
+        "teamSName": "TSK",
+        "imageId": 333486
+      },
+      {
+        "teamId": 1573,
+        "teamName": "MI New York",
+        "teamSName": "MINY",
+        "imageId": 334729
+      },
+      {
+        "teamId": 1570,
+        "teamName": "Los Angeles Knight Riders",
+        "teamSName": "LAKR",
+        "imageId": 333484
+      },
+      {
+        "teamId": 1479,
+        "teamName": "Gujarat Giants Women",
+        "teamSName": "GGTW",
+        "imageId": 254722
+      },
+      {
+        "teamId": 1472,
+        "teamName": "UP Warriorz Women",
+        "teamSName": "UPW",
+        "imageId": 254738
+      },
+      {
+        "teamId": 1468,
+        "teamName": "Mumbai Indians Women",
+        "teamSName": "MIW",
+        "imageId": 254724
+      },
+      {
+        "teamId": 1465,
+        "teamName": "Royal Challengers Bengaluru Women",
+        "teamSName": "RCBW",
+        "imageId": 254725
+      },
+      {
+        "teamId": 1461,
+        "teamName": "Delhi Capitals Women",
+        "teamSName": "DCW",
+        "imageId": 254726
+      },
+      {
+        "teamId": 1419,
+        "teamName": "Dhaka Dominators",
+        "teamSName": "DHDM",
+        "imageId": 253024
+      },
+      {
+        "teamId": 1412,
+        "teamName": "Sylhet Strikers",
+        "teamSName": "SYST",
+        "imageId": 253023
+      },
+      {
+        "teamId": 1326,
+        "teamName": "Desert Vipers",
+        "teamSName": "DV",
+        "imageId": 249199
+      },
+      {
+        "teamId": 1319,
+        "teamName": "Gulf Giants",
+        "teamSName": "GG",
+        "imageId": 249198
+      },
+      {
+        "teamId": 1312,
+        "teamName": "Sharjah Warriorz",
+        "teamSName": "SW",
+        "imageId": 249197
+      },
+      {
+        "teamId": 1307,
+        "teamName": "MI Emirates",
+        "teamSName": "MIE",
+        "imageId": 249196
+      },
+      {
+        "teamId": 1300,
+        "teamName": "Abu Dhabi Knight Riders",
+        "teamSName": "ADKR",
+        "imageId": 249195
+      },
+      {
+        "teamId": 1594,
+        "teamName": "Seattle Orcas",
+        "teamSName": "SOR",
+        "imageId": 333489
+      },
+      {
+        "teamId": 953,
+        "teamName": "Kandy Warriors",
+        "teamSName": "KDW",
+        "imageId": 219032
+      },
+      {
+        "teamId": 948,
+        "teamName": "Jaffna Kings",
+        "teamSName": "JKS",
+        "imageId": 219029
+      },
+      {
+        "teamId": 709,
+        "teamName": "Sri Lanka Legends",
+        "teamSName": "SLL",
+        "imageId": 202787
+      },
+      {
+        "teamId": 700,
+        "teamName": "Australia Legends",
+        "teamSName": "AUSL",
+        "imageId": 202786
+      },
+      {
+        "teamId": 691,
+        "teamName": "West Indies Legends",
+        "teamSName": "WIL",
+        "imageId": 202785
+      },
+      {
+        "teamId": 682,
+        "teamName": "India Legends",
+        "teamSName": "INDL",
+        "imageId": 202784,
+        "countryName": "India"
+      },
+      {
+        "teamId": 633,
+        "teamName": "Swift Gallopers",
+        "teamSName": "SGP",
+        "imageId": 174284
+      },
+      {
+        "teamId": 632,
+        "teamName": "Heat Stormers",
+        "teamSName": "HSR",
+        "imageId": 174284
+      },
+      {
+        "teamId": 631,
+        "teamName": "Pearl Gladiators",
+        "teamSName": "PGR",
+        "imageId": 248441
+      },
+      {
+        "teamId": 630,
+        "teamName": "Desert Riders",
+        "teamSName": "DSR",
+        "imageId": 248402
+      },
+      {
+        "teamId": 629,
+        "teamName": "Flying Oryx",
+        "teamSName": "FYO",
+        "imageId": 174284
+      },
+      {
+        "teamId": 628,
+        "teamName": "Falcon Hunters",
+        "teamSName": "FLH",
+        "imageId": 248409
+      },
+      {
+        "teamId": 627,
+        "teamName": "Khulna Tigers",
+        "teamSName": "KLT",
+        "imageId": 248424
+      },
+      {
+        "teamId": 626,
+        "teamName": "Rajshahi Royals",
+        "teamSName": "RSR",
+        "imageId": 248444
+      },
+      {
+        "teamId": 625,
+        "teamName": "Dhaka Platoon",
+        "teamSName": "DP",
+        "imageId": 174284
+      },
+      {
+        "teamId": 624,
+        "teamName": "Rangpur Rangers",
+        "teamSName": "RPR",
+        "imageId": 248445
+      },
+      {
+        "teamId": 623,
+        "teamName": "Cumilla Warriors",
+        "teamSName": "CW",
+        "imageId": 248401
+      },
+      {
+        "teamId": 622,
+        "teamName": "Chattogram Challengers",
+        "teamSName": "CGC",
+        "imageId": 248400
+      },
+      {
+        "teamId": 718,
+        "teamName": "South Africa Legends",
+        "teamSName": "RSAL",
+        "imageId": 202802
+      },
+      {
+        "teamId": 789,
+        "teamName": "Colombo Kings",
+        "teamSName": "CLK",
+        "imageId": 196089
+      },
+      {
+        "teamId": 794,
+        "teamName": "Dambulla Viiking",
+        "teamSName": "DVK",
+        "imageId": 196090
+      },
+      {
+        "teamId": 946,
+        "teamName": "Dambulla Sixers",
+        "teamSName": "DAS",
+        "imageId": 502581
+      },
+      {
+        "teamId": 943,
+        "teamName": "Colombo Strikers",
+        "teamSName": "CLS",
+        "imageId": 333883
+      },
+      {
+        "teamId": 941,
+        "teamName": "Chennai Brave Jaguars",
+        "teamSName": "CBJ",
+        "imageId": 219043
+      },
+      {
+        "teamId": 867,
+        "teamName": "Salem Spartans",
+        "teamSName": "SLST",
+        "imageId": 206918,
+        "countryName": "India"
+      },
+      {
+        "teamId": 866,
+        "teamName": "Nellai Royal Kings",
+        "teamSName": "NRK",
+        "imageId": 206917,
+        "countryName": "India"
+      },
+      {
+        "teamId": 861,
+        "teamName": "IDream Tiruppur Tamizhans",
+        "teamSName": "ITT",
+        "imageId": 206916,
+        "countryName": "India"
+      },
+      {
+        "teamId": 853,
+        "teamName": "England Legends",
+        "teamSName": "ENGL",
+        "imageId": 202782
+      },
+      {
+        "teamId": 848,
+        "teamName": "Bangladesh Legends",
+        "teamSName": "BANL",
+        "imageId": 202783
+      },
+      {
+        "teamId": 827,
+        "teamName": "Beximco Dhaka",
+        "teamSName": "DHAKA",
+        "imageId": 198252
+      },
+      {
+        "teamId": 822,
+        "teamName": "Gazi Group Chattogram",
+        "teamSName": "CTGRM",
+        "imageId": 198250
+      },
+      {
+        "teamId": 817,
+        "teamName": "Minister Group Rajshahi",
+        "teamSName": "RJSHI",
+        "imageId": 198243
+      },
+      {
+        "teamId": 812,
+        "teamName": "Gemcon Khulna",
+        "teamSName": "KHULN",
+        "imageId": 198242
+      },
+      {
+        "teamId": 807,
+        "teamName": "Fortune Barishal",
+        "teamSName": "BRSAL",
+        "imageId": 198246
+      },
+      {
+        "teamId": 805,
+        "teamName": "Kandy Tuskers",
+        "teamSName": "KDT",
+        "imageId": 196087
+      },
+      {
+        "teamId": 800,
+        "teamName": "Jaffna Stallions",
+        "teamSName": "JST",
+        "imageId": 196091
+      },
+      {
+        "teamId": 799,
+        "teamName": "Galle Gladiators",
+        "teamSName": "GGD",
+        "imageId": 219028
+      },
+      {
+        "teamId": 621,
+        "teamName": "Sylhet Thunder",
+        "teamSName": "SLT",
+        "imageId": 248455
+      },
+      {
+        "teamId": 1601,
+        "teamName": "Galle Marvels",
+        "teamSName": "GAM",
+        "imageId": 577416
+      },
+      {
+        "teamId": 2490,
+        "teamName": "Indore Pink Panthers",
+        "teamSName": "IPP",
+        "imageId": 715355,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2326,
+        "teamName": "India Masters",
+        "teamSName": "INDM",
+        "imageId": 616379,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2269,
+        "teamName": "Colombo Jaguars",
+        "teamSName": "CLJR",
+        "imageId": 577412,
+        "countryName": "Sri Lanka"
+      },
+      {
+        "teamId": 2261,
+        "teamName": "Hambantota Bangla Tigers",
+        "teamSName": "HBT",
+        "imageId": 577413,
+        "countryName": "Sri Lanka"
+      },
+      {
+        "teamId": 2253,
+        "teamName": "Nuwara Eliya Kings",
+        "teamSName": "NEK",
+        "imageId": 577430,
+        "countryName": "Sri Lanka"
+      },
+      {
+        "teamId": 2249,
+        "teamName": "Kandy Bolts",
+        "teamSName": "KDB",
+        "imageId": 577414,
+        "countryName": "Sri Lanka"
+      },
+      {
+        "teamId": 2241,
+        "teamName": "Jaffna Titans",
+        "teamSName": "JFT",
+        "imageId": 577415,
+        "countryName": "Sri Lanka"
+      },
+      {
+        "teamId": 2237,
+        "teamName": "Dhaka Capitals",
+        "teamSName": "DHCP",
+        "imageId": 592538,
+        "countryName": "Bangladesh"
+      },
+      {
+        "teamId": 2233,
+        "teamName": "Durbar Rajshahi",
+        "teamSName": "DBR",
+        "imageId": 592543,
+        "countryName": "Bangladesh"
+      },
+      {
+        "teamId": 2223,
+        "teamName": "UP Nawabs",
+        "teamSName": "UPN",
+        "imageId": 567954,
+        "countryName": "United Arab Emirates"
+      },
+      {
+        "teamId": 2216,
+        "teamName": "Ajman Bolts",
+        "teamSName": "AJMB",
+        "imageId": 567952,
+        "countryName": "United Arab Emirates"
+      },
+      {
+        "teamId": 2169,
+        "teamName": "Gujarat Greats",
+        "teamSName": "GUGS",
+        "imageId": 549912,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2161,
+        "teamName": "Toyam Hyderabad",
+        "teamSName": "TYH",
+        "imageId": 549913,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2156,
+        "teamName": "Konark Suryas Odisha",
+        "teamSName": "KNSO",
+        "imageId": 549916,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2148,
+        "teamName": "Nys Lagos",
+        "teamSName": "NYSL",
+        "imageId": 549917,
+        "countryName": "Zimbabwe"
+      },
+      {
+        "teamId": 2071,
+        "teamName": "Australian Capital Territory Women",
+        "teamSName": "ACT Meteors",
+        "imageId": 538208,
+        "countryName": "Australia"
+      },
+      {
+        "teamId": 2046,
+        "teamName": "Pakistan Champions",
+        "teamSName": "PAKCH",
+        "imageId": 510034,
+        "countryName": "Pakistan"
+      },
+      {
+        "teamId": 2335,
+        "teamName": "Sri Lanka Masters",
+        "teamSName": "SLM",
+        "imageId": 616378,
+        "countryName": "Sri Lanka"
+      },
+      {
+        "teamId": 2344,
+        "teamName": "Australia Masters",
+        "teamSName": "AUSM",
+        "imageId": 616377,
+        "countryName": "Australia"
+      },
+      {
+        "teamId": 2353,
+        "teamName": "West Indies Masters",
+        "teamSName": "WIM",
+        "imageId": 616376,
+        "countryName": "West Indies"
+      },
+      {
+        "teamId": 2479,
+        "teamName": "Rewa Jaguars",
+        "teamSName": "RJ",
+        "imageId": 715358,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2470,
+        "teamName": "Bundelkhand Bulls",
+        "teamSName": "BKB",
+        "imageId": 715359,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2468,
+        "teamName": "Bhopal Leopards",
+        "teamSName": "BL",
+        "imageId": 715361,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2457,
+        "teamName": "Jabalpur Royal Lions",
+        "teamSName": "JRL",
+        "imageId": 715351,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2448,
+        "teamName": "Chambal Ghariyals",
+        "teamSName": "CG",
+        "imageId": 715352,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2446,
+        "teamName": "Gwalior Cheetahs",
+        "teamSName": "GC",
+        "imageId": 715354,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2435,
+        "teamName": "Kolhapur Tuskers",
+        "teamSName": "KT",
+        "imageId": 715143,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2432,
+        "teamName": "Puneri Bappa",
+        "teamSName": "PB",
+        "imageId": 715141,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2423,
+        "teamName": "Satara Warriors",
+        "teamSName": "SWAR",
+        "imageId": 715146,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2414,
+        "teamName": "Eagle Nashik Titans",
+        "teamSName": "ENT",
+        "imageId": 715142,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2408,
+        "teamName": "Ratnagiri Jets",
+        "teamSName": "RGJ",
+        "imageId": 715145,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2399,
+        "teamName": "SoBo Mumbai Falcons",
+        "teamSName": "SMF",
+        "imageId": 713541,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2396,
+        "teamName": "Mumbai South Central Maratha Royals",
+        "teamSName": "MSCMR",
+        "imageId": 713540,
+        "countryName": "India"
+      },
+      {
+        "teamId": 2368,
+        "teamName": "Asian Stars",
+        "teamSName": "ANS",
+        "imageId": 625578,
+        "countryName": "0"
+      },
+      {
+        "teamId": 2362,
+        "teamName": "South Africa Masters",
+        "teamSName": "SAM",
+        "imageId": 616374,
+        "countryName": "South Africa"
+      },
+      {
+        "teamId": 2359,
+        "teamName": "England Masters",
+        "teamSName": "ENGM",
+        "imageId": 616375,
+        "countryName": "England"
+      },
+      {
+        "teamId": 2039,
+        "teamName": "Australia Champions",
+        "teamSName": "AUSCH",
+        "imageId": 510033,
+        "countryName": "Australia"
+      },
+      {
+        "teamId": 2030,
+        "teamName": "England Champions",
+        "teamSName": "ENGCH",
+        "imageId": 510032,
+        "countryName": "England"
+      },
+      {
+        "teamId": 2021,
+        "teamName": "West Indies Champions",
+        "teamSName": "WICH",
+        "imageId": 510031,
+        "countryName": "West Indies"
+      },
+      {
+        "teamId": 1740,
+        "teamName": "Udaipur Lakecity Warriors",
+        "teamSName": "ULW",
+        "imageId": 340204
+      },
+      {
+        "teamId": 1733,
+        "teamName": "Jaanbaaz Kota Challengers",
+        "teamSName": "JKC",
+        "imageId": 340202
+      },
+      {
+        "teamId": 1731,
+        "teamName": "Bhilwara Bulls",
+        "teamSName": "BWB",
+        "imageId": 340201
+      },
+      {
+        "teamId": 1724,
+        "teamName": "Jaipur Indians",
+        "teamSName": "JI",
+        "imageId": 340200
+      },
+      {
+        "teamId": 1713,
+        "teamName": "Morrisville Unity",
+        "teamSName": "MU",
+        "imageId": 338369
+      },
+      {
+        "teamId": 1706,
+        "teamName": "New Jersey Legends",
+        "teamSName": "NJL",
+        "imageId": 338368
+      },
+      {
+        "teamId": 1699,
+        "teamName": "Texas Chargers",
+        "teamSName": "TEC",
+        "imageId": 338367
+      },
+      {
+        "teamId": 1692,
+        "teamName": "New York Warriors",
+        "teamSName": "NYW",
+        "imageId": 338366
+      },
+      {
+        "teamId": 1685,
+        "teamName": "California Knights",
+        "teamSName": "CAK",
+        "imageId": 338365
+      },
+      {
+        "teamId": 1682,
+        "teamName": "Atlanta Riders",
+        "teamSName": "AR",
+        "imageId": 338363
+      },
+      {
+        "teamId": 1650,
+        "teamName": "Harare Bolts",
+        "teamSName": "HB",
+        "imageId": 334690
+      },
+      {
+        "teamId": 1647,
+        "teamName": "Cape Town Samp Army",
+        "teamSName": "CTSA",
+        "imageId": 334693
+      },
+      {
+        "teamId": 1640,
+        "teamName": "Joburg Bangla Tigers",
+        "teamSName": "JBT",
+        "imageId": 334696
+      },
+      {
+        "teamId": 1636,
+        "teamName": "Bulawayo Brave Jaguars",
+        "teamSName": "BLBJ",
+        "imageId": 334697
+      },
+      {
+        "teamId": 1633,
+        "teamName": "Surrey Jaguars",
+        "teamSName": "SJG",
+        "imageId": 334523
+      },
+      {
+        "teamId": 1629,
+        "teamName": "Bangla Tigers Mississauga",
+        "teamSName": "BTM",
+        "imageId": 334524
+      },
+      {
+        "teamId": 1747,
+        "teamName": "Shekhawati Soldiers Sikar",
+        "teamSName": "SWS",
+        "imageId": 340209
+      },
+      {
+        "teamId": 1752,
+        "teamName": "Jodhpur Sunrisers",
+        "teamSName": "JSR",
+        "imageId": 340213
+      },
+      {
+        "teamId": 1811,
+        "teamName": "Pakistan Legends",
+        "teamSName": "PAKL",
+        "imageId": 174284
+      },
+      {
+        "teamId": 2014,
+        "teamName": "South Africa Champions",
+        "teamSName": "SACH",
+        "imageId": 510030,
+        "countryName": "South Africa"
+      },
+      {
+        "teamId": 2005,
+        "teamName": "India Champions",
+        "teamSName": "INDCH",
+        "imageId": 510027,
+        "countryName": "India"
+      },
+      {
+        "teamId": 1978,
+        "teamName": "Antigua and Barbuda Falcons",
+        "teamSName": "ABF",
+        "imageId": 507236,
+        "countryName": "West Indies"
+      },
+      {
+        "teamId": 1962,
+        "teamName": "Pakistan Stars",
+        "teamSName": "PS",
+        "imageId": 384029,
+        "countryName": "Pakistan"
+      },
+      {
+        "teamId": 1955,
+        "teamName": "Sri Lankan Lions",
+        "teamSName": "SLLS",
+        "imageId": 384025,
+        "countryName": "Sri Lanka"
+      },
+      {
+        "teamId": 1953,
+        "teamName": "Indian Royals",
+        "teamSName": "IR",
+        "imageId": 384024,
+        "countryName": "India"
+      },
+      {
+        "teamId": 1948,
+        "teamName": "Bangladesh Tigers",
+        "teamSName": "BT",
+        "imageId": 384022,
+        "countryName": "Bangladesh"
+      },
+      {
+        "teamId": 1941,
+        "teamName": "Afghanistan Pathans",
+        "teamSName": "AFGP",
+        "imageId": 384023,
+        "countryName": "Afghanistan"
+      },
+      {
+        "teamId": 1934,
+        "teamName": "New York Superstar Strikers",
+        "teamSName": "NYSS",
+        "imageId": 384012,
+        "countryName": "0"
+      },
+      {
+        "teamId": 1927,
+        "teamName": "Kandy Samp Army",
+        "teamSName": "KSA",
+        "imageId": 384011,
+        "countryName": "0"
+      },
+      {
+        "teamId": 1920,
+        "teamName": "Delhi Devils",
+        "teamSName": "DDS",
+        "imageId": 384008,
+        "countryName": "0"
+      },
+      {
+        "teamId": 1916,
+        "teamName": "Colombo Lions",
+        "teamSName": "CLions",
+        "imageId": 384005,
+        "countryName": "0"
+      },
+      {
+        "teamId": 1911,
+        "teamName": "Punjab Royals",
+        "teamSName": "PUNRS",
+        "imageId": 384004,
+        "countryName": "0"
+      },
+      {
+        "teamId": 1904,
+        "teamName": "Rajasthan Kings",
+        "teamSName": "RAJK",
+        "imageId": 384003,
+        "countryName": "0"
+      },
+      {
+        "teamId": 1902,
+        "teamName": "Dubai Giants",
+        "teamSName": "DGS",
+        "imageId": 384002,
+        "countryName": "0"
+      },
+      {
+        "teamId": 1895,
+        "teamName": "Durdanto Dhaka",
+        "teamSName": "DRD",
+        "imageId": 373877,
+        "countryName": "Bangladesh"
+      },
+      {
+        "teamId": 1608,
+        "teamName": "Kandy Falcons",
+        "teamSName": "KFS",
+        "imageId": 333881,
+        "countryName": "Sri Lanka"
+      },
+      {
+        "teamId": 392,
+        "teamName": "Panchkula Kings",
+        "teamSName": "PKK",
+        "imageId": 172445,
+        "countryName": "India"
+      },
+      {
+        "teamId": 333,
+        "teamName": "Lahore Qalandars",
+        "teamSName": "LHQ",
+        "imageId": 172381
+      },
+      {
+        "teamId": 332,
+        "teamName": "Karachi Kings",
+        "teamSName": "KRK",
+        "imageId": 172380
+      },
+      {
+        "teamId": 331,
+        "teamName": "Quetta Gladiators",
+        "teamSName": "QTG",
+        "imageId": 172379
+      },
+      {
+        "teamId": 330,
+        "teamName": "Islamabad United",
+        "teamSName": "ISU",
+        "imageId": 172378
+      },
+      {
+        "teamId": 322,
+        "teamName": "Barisal Bulls",
+        "teamSName": "BRSL",
+        "imageId": 172372
+      },
+      {
+        "teamId": 321,
+        "teamName": "Chittagong Vikings",
+        "teamSName": "CHTG",
+        "imageId": 172371
+      },
+      {
+        "teamId": 320,
+        "teamName": "Sylhet Super Stars",
+        "teamSName": "SSS",
+        "imageId": 172370
+      },
+      {
+        "teamId": 319,
+        "teamName": "Comilla Victorians",
+        "teamSName": "CV",
+        "imageId": 172369
+      },
+      {
+        "teamId": 318,
+        "teamName": "Dhaka Dynamites",
+        "teamSName": "DHD",
+        "imageId": 172368
+      },
+      {
+        "teamId": 311,
+        "teamName": "Rock Stars",
+        "teamSName": "RS",
+        "imageId": 172360,
+        "countryName": "India"
+      },
+      {
+        "teamId": 310,
+        "teamName": "Hubli Tigers",
+        "teamSName": "HT",
+        "imageId": 172359,
+        "countryName": "India"
+      },
+      {
+        "teamId": 309,
+        "teamName": "Shivamogga Lions",
+        "teamSName": "SML",
+        "imageId": 338074,
+        "countryName": "India"
+      },
+      {
+        "teamId": 308,
+        "teamName": "Bellary Tuskers",
+        "teamSName": "BLARY",
+        "imageId": 172357,
+        "countryName": "India"
+      },
+      {
+        "teamId": 307,
+        "teamName": "Mysore Warriors",
+        "teamSName": "MW",
+        "imageId": 172356,
+        "countryName": "India"
+      },
+      {
+        "teamId": 302,
+        "teamName": "St Kitts and Nevis Patriots",
+        "teamSName": "SNP",
+        "imageId": 172351
+      },
+      {
+        "teamId": 271,
+        "teamName": "Trinbago Knight Riders",
+        "teamSName": "TKR",
+        "imageId": 172325
+      },
+      {
+        "teamId": 334,
+        "teamName": "Peshawar Zalmi",
+        "teamSName": "PSZ",
+        "imageId": 172382
+      },
+      {
+        "teamId": 335,
+        "teamName": "Libra Legends",
+        "teamSName": "LL",
+        "imageId": 172383
+      },
+      {
+        "teamId": 336,
+        "teamName": "Gemini Arabians",
+        "teamSName": "GA",
+        "imageId": 172384
+      },
+      {
+        "teamId": 379,
+        "teamName": "Rajshahi Kings",
+        "teamSName": "RJ",
+        "imageId": 172432
+      },
+      {
+        "teamId": 378,
+        "teamName": "Khulna Titans",
+        "teamSName": "KT",
+        "imageId": 172431
+      },
+      {
+        "teamId": 373,
+        "teamName": "Karaikudi Kaalai",
+        "teamSName": "KK",
+        "imageId": 172426,
+        "countryName": "India"
+      },
+      {
+        "teamId": 372,
+        "teamName": "VB Thiruvallur Veerans",
+        "teamSName": "VTV",
+        "imageId": 172425,
+        "countryName": "India"
+      },
+      {
+        "teamId": 371,
+        "teamName": "Dindigul Dragons",
+        "teamSName": "DGD",
+        "imageId": 172424,
+        "countryName": "India"
+      },
+      {
+        "teamId": 370,
+        "teamName": "Ruby Kanchi Warriors",
+        "teamSName": "RKW",
+        "imageId": 172423,
+        "countryName": "India"
+      },
+      {
+        "teamId": 369,
+        "teamName": "Siechem Madurai Panthers",
+        "teamSName": "MADURAI",
+        "imageId": 172422,
+        "countryName": "India"
+      },
+      {
+        "teamId": 368,
+        "teamName": "Lyca Kovai Kings",
+        "teamSName": "LKK",
+        "imageId": 172421,
+        "countryName": "India"
+      },
+      {
+        "teamId": 367,
+        "teamName": "Chepauk Super Gillies",
+        "teamSName": "CSG",
+        "imageId": 172420,
+        "countryName": "India"
+      },
+      {
+        "teamId": 366,
+        "teamName": "TUTI Patriots",
+        "teamSName": "TP",
+        "imageId": 172419,
+        "countryName": "India"
+      },
+      {
+        "teamId": 351,
+        "teamName": "Hung Hom JD Jaguars",
+        "teamSName": "HHJ",
+        "imageId": 172399
+      },
+      {
+        "teamId": 344,
+        "teamName": "Sagittarius Strikers",
+        "teamSName": "SS",
+        "imageId": 172392
+      },
+      {
+        "teamId": 340,
+        "teamName": "Leo Lions",
+        "teamSName": "LEO",
+        "imageId": 172388
+      },
+      {
+        "teamId": 339,
+        "teamName": "Capricorn Commanders",
+        "teamSName": "CC",
+        "imageId": 172387
+      },
+      {
+        "teamId": 338,
+        "teamName": "Virgo Super Kings",
+        "teamSName": "VSK",
+        "imageId": 172386
+      },
+      {
+        "teamId": 337,
+        "teamName": "Sagittarius Soldiers",
+        "teamSName": "SAGI",
+        "imageId": 172385
+      },
+      {
+        "teamId": 270,
+        "teamName": "Faisalabad Wolves",
+        "teamSName": "FW",
+        "imageId": 172324
+      },
+      {
+        "teamId": 265,
+        "teamName": "Antigua Hawksbills",
+        "teamSName": "AH",
+        "imageId": 172318
+      },
+      {
+        "teamId": 183,
+        "teamName": "Pune Warriors",
+        "teamSName": "PWI",
+        "imageId": 172242,
+        "countryName": "India"
+      },
+      {
+        "teamId": 159,
+        "teamName": "Guyana Amazon Warriors",
+        "teamSName": "GAW",
+        "imageId": 172227
+      },
+      {
+        "teamId": 157,
+        "teamName": "Lions",
+        "teamSName": "LIONS",
+        "imageId": 172224
+      },
+      {
+        "teamId": 156,
+        "teamName": "Central Stags",
+        "teamSName": "CEN",
+        "imageId": 172223
+      },
+      {
+        "teamId": 155,
+        "teamName": "Warriors",
+        "teamSName": "WAR",
+        "imageId": 172222
+      },
+      {
+        "teamId": 134,
+        "teamName": "Raigad Royals",
+        "teamSName": "RGR",
+        "imageId": 715144,
+        "countryName": "India"
+      },
+      {
+        "teamId": 125,
+        "teamName": "Bijapur Bulls",
+        "teamSName": "BIJ",
+        "imageId": 172202,
+        "countryName": "India"
+      },
+      {
+        "teamId": 123,
+        "teamName": "Belagavi Panthers",
+        "teamSName": "BP",
+        "imageId": 172201,
+        "countryName": "India"
+      },
+      {
+        "teamId": 122,
+        "teamName": "Mangalore Dragons",
+        "teamSName": "MD",
+        "imageId": 338073,
+        "countryName": "India"
+      },
+      {
+        "teamId": 105,
+        "teamName": "Otago",
+        "teamSName": "OTG",
+        "imageId": 172197
+      },
+      {
+        "teamId": 104,
+        "teamName": "New South Wales",
+        "teamSName": "NSW",
+        "imageId": 172196
+      },
+      {
+        "teamId": 103,
+        "teamName": "Wayamba Elevens",
+        "teamSName": "WAY",
+        "imageId": 172195
+      },
+      {
+        "teamId": 101,
+        "teamName": "Cape Cobras",
+        "teamSName": "COB",
+        "imageId": 172193
+      },
+      {
+        "teamId": 90,
+        "teamName": "Dolphins",
+        "teamSName": "DOL",
+        "imageId": 172183
+      },
+      {
+        "teamId": 89,
+        "teamName": "Titans",
+        "teamSName": "TIT",
+        "imageId": 172182
+      },
+      {
+        "teamId": 88,
+        "teamName": "Sialkot Stallions",
+        "teamSName": "SKST",
+        "imageId": 172181
+      },
+      {
+        "teamId": 184,
+        "teamName": "Kochi Tuskers Kerala",
+        "teamSName": "KTK",
+        "imageId": 172243,
+        "countryName": "India"
+      },
+      {
+        "teamId": 192,
+        "teamName": "Sydney Thunder",
+        "teamSName": "SYT",
+        "imageId": 172252
+      },
+      {
+        "teamId": 193,
+        "teamName": "Brisbane Heat",
+        "teamSName": "BRH",
+        "imageId": 172253
+      },
+      {
+        "teamId": 264,
+        "teamName": "Jamaica Tallawahs",
+        "teamSName": "JT",
+        "imageId": 172317
+      },
+      {
+        "teamId": 263,
+        "teamName": "Saint Lucia Kings",
+        "teamSName": "SLK",
+        "imageId": 172316
+      },
+      {
+        "teamId": 262,
+        "teamName": "Barbados Royals",
+        "teamSName": "BR",
+        "imageId": 210485
+      },
+      {
+        "teamId": 256,
+        "teamName": "Rangpur Riders",
+        "teamSName": "RGR",
+        "imageId": 172309
+      },
+      {
+        "teamId": 206,
+        "teamName": "Sylhet Royals",
+        "teamSName": "SR",
+        "imageId": 172266
+      },
+      {
+        "teamId": 205,
+        "teamName": "Khulna Royal Bengals",
+        "teamSName": "KRB",
+        "imageId": 172265
+      },
+      {
+        "teamId": 204,
+        "teamName": "Duronto Rajshahi",
+        "teamSName": "DR",
+        "imageId": 172264
+      },
+      {
+        "teamId": 203,
+        "teamName": "Dhaka Gladiators",
+        "teamSName": "DG",
+        "imageId": 172263
+      },
+      {
+        "teamId": 202,
+        "teamName": "Chittagong Kings",
+        "teamSName": "CK",
+        "imageId": 172262
+      },
+      {
+        "teamId": 201,
+        "teamName": "Barisal Burners",
+        "teamSName": "BB",
+        "imageId": 172261
+      },
+      {
+        "teamId": 199,
+        "teamName": "Adelaide Strikers",
+        "teamSName": "ADS",
+        "imageId": 172259
+      },
+      {
+        "teamId": 198,
+        "teamName": "Sydney Sixers",
+        "teamSName": "SYS",
+        "imageId": 172258
+      },
+      {
+        "teamId": 197,
+        "teamName": "Perth Scorchers",
+        "teamSName": "PRS",
+        "imageId": 172257
+      },
+      {
+        "teamId": 196,
+        "teamName": "Melbourne Stars",
+        "teamSName": "MLS",
+        "imageId": 172256
+      },
+      {
+        "teamId": 195,
+        "teamName": "Melbourne Renegades",
+        "teamSName": "MLR",
+        "imageId": 172255
+      },
+      {
+        "teamId": 194,
+        "teamName": "Hobart Hurricanes",
+        "teamSName": "HBH",
+        "imageId": 172254
+      },
+      {
+        "teamId": 84,
+        "teamName": "Trinidad and Tobago",
+        "teamSName": "TT",
+        "imageId": 172178
+      },
+      {
+        "teamId": 393,
+        "teamName": "Sirsa Warriors",
+        "teamSName": "SIRSA",
+        "imageId": 172446,
+        "countryName": "India"
+      },
+      {
+        "teamId": 612,
+        "teamName": "Trent Rockets",
+        "teamSName": "TRE",
+        "imageId": 202713
+      },
+      {
+        "teamId": 517,
+        "teamName": "Sindhis",
+        "teamSName": "SIND",
+        "imageId": 172567
+      },
+      {
+        "teamId": 516,
+        "teamName": "Rajputs",
+        "teamSName": "RJP",
+        "imageId": 172566
+      },
+      {
+        "teamId": 515,
+        "teamName": "Punjabi Legends",
+        "teamSName": "PL",
+        "imageId": 172565
+      },
+      {
+        "teamId": 514,
+        "teamName": "Pakhtoons",
+        "teamSName": "PAKHT",
+        "imageId": 172563
+      },
+      {
+        "teamId": 513,
+        "teamName": "Northern Warriors",
+        "teamSName": "NW",
+        "imageId": 201349
+      },
+      {
+        "teamId": 512,
+        "teamName": "Maratha Arabians",
+        "teamSName": "MA",
+        "imageId": 201347
+      },
+      {
+        "teamId": 511,
+        "teamName": "Kerala Knights",
+        "teamSName": "KKS",
+        "imageId": 172560
+      },
+      {
+        "teamId": 510,
+        "teamName": "Bengal Tigers",
+        "teamSName": "BTS",
+        "imageId": 172559
+      },
+      {
+        "teamId": 480,
+        "teamName": "Tshwane Spartans",
+        "teamSName": "TSP",
+        "imageId": 172528
+      },
+      {
+        "teamId": 479,
+        "teamName": "Paarl Rocks",
+        "teamSName": "PLR",
+        "imageId": 172527
+      },
+      {
+        "teamId": 478,
+        "teamName": "Nelson Mandela Bay Giants",
+        "teamSName": "NMBG",
+        "imageId": 172526
+      },
+      {
+        "teamId": 477,
+        "teamName": "Jozi Stars",
+        "teamSName": "JS",
+        "imageId": 172525
+      },
+      {
+        "teamId": 476,
+        "teamName": "Durban Heat",
+        "teamSName": "DH",
+        "imageId": 172524
+      },
+      {
+        "teamId": 475,
+        "teamName": "Cape Town Blitz",
+        "teamSName": "CTB",
+        "imageId": 172523
+      },
+      {
+        "teamId": 474,
+        "teamName": "Balkh Legends",
+        "teamSName": "BL",
+        "imageId": 172522
+      },
+      {
+        "teamId": 473,
+        "teamName": "Nangarhar Leopards",
+        "teamSName": "NL",
+        "imageId": 172521
+      },
+      {
+        "teamId": 472,
+        "teamName": "Kandahar Knights",
+        "teamSName": "KDK",
+        "imageId": 172520
+      },
+      {
+        "teamId": 572,
+        "teamName": "Amsterdam Knights",
+        "teamSName": "ADK",
+        "imageId": 174284
+      },
+      {
+        "teamId": 573,
+        "teamName": "Rotterdam Rhinos",
+        "teamSName": "RDR",
+        "imageId": 174284
+      },
+      {
+        "teamId": 611,
+        "teamName": "Southern Brave",
+        "teamSName": "SOU",
+        "imageId": 202712
+      },
+      {
+        "teamId": 610,
+        "teamName": "Northern Superchargers",
+        "teamSName": "NORS",
+        "imageId": 202711
+      },
+      {
+        "teamId": 609,
+        "teamName": "Manchester Originals",
+        "teamSName": "MCR",
+        "imageId": 202710
+      },
+      {
+        "teamId": 608,
+        "teamName": "London Spirit",
+        "teamSName": "LDN",
+        "imageId": 202696
+      },
+      {
+        "teamId": 607,
+        "teamName": "Birmingham Phoenix",
+        "teamSName": "BRM",
+        "imageId": 202709
+      },
+      {
+        "teamId": 606,
+        "teamName": "Welsh Fire",
+        "teamSName": "WEF",
+        "imageId": 202708
+      },
+      {
+        "teamId": 605,
+        "teamName": "Oval Invincibles",
+        "teamSName": "OVL",
+        "imageId": 202707
+      },
+      {
+        "teamId": 602,
+        "teamName": "Pune Devils",
+        "teamSName": "PD",
+        "imageId": 201350
+      },
+      {
+        "teamId": 601,
+        "teamName": "Team Abu Dhabi",
+        "teamSName": "AD",
+        "imageId": 201355
+      },
+      {
+        "teamId": 600,
+        "teamName": "Bangla Tigers",
+        "teamSName": "BGT",
+        "imageId": 201353,
+        "countryName": "Bangladesh"
+      },
+      {
+        "teamId": 599,
+        "teamName": "Qalandars",
+        "teamSName": "QLD",
+        "imageId": 201354
+      },
+      {
+        "teamId": 598,
+        "teamName": "Delhi Bulls",
+        "teamSName": "DBL",
+        "imageId": 201352
+      },
+      {
+        "teamId": 597,
+        "teamName": "Deccan Gladiators",
+        "teamSName": "DEG",
+        "imageId": 201351
+      },
+      {
+        "teamId": 577,
+        "teamName": "Belfast Titans",
+        "teamSName": "BFT",
+        "imageId": 248396
+      },
+      {
+        "teamId": 576,
+        "teamName": "Dublin Chiefs",
+        "teamSName": "DBC",
+        "imageId": 174284
+      },
+      {
+        "teamId": 575,
+        "teamName": "Glasgow Giants",
+        "teamSName": "GGG",
+        "imageId": 174284
+      },
+      {
+        "teamId": 574,
+        "teamName": "Edinburgh Rocks",
+        "teamSName": "EBR",
+        "imageId": 248408
+      },
+      {
+        "teamId": 471,
+        "teamName": "Paktia Panthers",
+        "teamSName": "PP",
+        "imageId": 172519
+      },
+      {
+        "teamId": 470,
+        "teamName": "Kabul Zwanan",
+        "teamSName": "KZ",
+        "imageId": 172518
+      },
+      {
+        "teamId": 419,
+        "teamName": "Yorkshire Diamonds",
+        "teamSName": "YD",
+        "imageId": 172469
+      },
+      {
+        "teamId": 418,
+        "teamName": "Western Storm",
+        "teamSName": "WS",
+        "imageId": 172468
+      },
+      {
+        "teamId": 417,
+        "teamName": "Southern Vipers",
+        "teamSName": "SV",
+        "imageId": 172467
+      },
+      {
+        "teamId": 416,
+        "teamName": "Ajmer Panthers",
+        "teamSName": "APS",
+        "imageId": 172466,
+        "countryName": "India"
+      },
+      {
+        "teamId": 415,
+        "teamName": "Bhilwara Wolves",
+        "teamSName": "BWS",
+        "imageId": 172465,
+        "countryName": "India"
+      },
+      {
+        "teamId": 414,
+        "teamName": "Jodhpur Lions",
+        "teamSName": "JL",
+        "imageId": 172464,
+        "countryName": "India"
+      },
+      {
+        "teamId": 413,
+        "teamName": "Jaipur Tigers",
+        "teamSName": "JAIPUR",
+        "imageId": 172463,
+        "countryName": "India"
+      },
+      {
+        "teamId": 412,
+        "teamName": "Udaipur Eagles",
+        "teamSName": "UDE",
+        "imageId": 172462,
+        "countryName": "India"
+      },
+      {
+        "teamId": 411,
+        "teamName": "Sikar Bulls",
+        "teamSName": "SIKAR",
+        "imageId": 172461,
+        "countryName": "India"
+      },
+      {
+        "teamId": 410,
+        "teamName": "Trichy Grand Cholas",
+        "teamSName": "Trichy",
+        "imageId": 172460,
+        "countryName": "India"
+      },
+      {
+        "teamId": 401,
+        "teamName": "Galaxy Gladiators Lantau",
+        "teamSName": "GGL",
+        "imageId": 172453
+      },
+      {
+        "teamId": 400,
+        "teamName": "HKI United",
+        "teamSName": "HKI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 399,
+        "teamName": "City Kaitak",
+        "teamSName": "Kaitak",
+        "imageId": 172452
+      },
+      {
+        "teamId": 397,
+        "teamName": "Gurugram Gladiators",
+        "teamSName": "GUGL",
+        "imageId": 172450,
+        "countryName": "India"
+      },
+      {
+        "teamId": 396,
+        "teamName": "Rohtak Blasters",
+        "teamSName": "RB",
+        "imageId": 172449,
+        "countryName": "India"
+      },
+      {
+        "teamId": 395,
+        "teamName": "Hisar Bulls",
+        "teamSName": "HB",
+        "imageId": 172448,
+        "countryName": "India"
+      },
+      {
+        "teamId": 420,
+        "teamName": "Lancashire Thunder",
+        "teamSName": "LT",
+        "imageId": 172470
+      },
+      {
+        "teamId": 421,
+        "teamName": "Loughborough Lightning",
+        "teamSName": "LBL",
+        "imageId": 172471
+      },
+      {
+        "teamId": 432,
+        "teamName": "Pretoria Mavericks",
+        "teamSName": "PM",
+        "imageId": 172482
+      },
+      {
+        "teamId": 433,
+        "teamName": "Stellenbosch Kings",
+        "teamSName": "SK",
+        "imageId": 172483
+      },
+      {
+        "teamId": 434,
+        "teamName": "Sylhet Sixers",
+        "teamSName": "SYL",
+        "imageId": 172484
+      },
+      {
+        "teamId": 437,
+        "teamName": "Multan Sultans",
+        "teamSName": "MS",
+        "imageId": 172487
+      },
+      {
+        "teamId": 455,
+        "teamName": "VB Kanchi Veerans",
+        "teamSName": "VKV",
+        "imageId": 172503,
+        "countryName": "India"
+      },
+      {
+        "teamId": 457,
+        "teamName": "India Women Red",
+        "teamSName": "INDWR",
+        "imageId": 172505,
+        "countryName": "India"
+      },
+      {
+        "teamId": 458,
+        "teamName": "India Women Blue",
+        "teamSName": "INDWB",
+        "imageId": 172506,
+        "countryName": "India"
+      },
+      {
+        "teamId": 459,
+        "teamName": "India Women Green",
+        "teamSName": "INDWG",
+        "imageId": 172507,
+        "countryName": "India"
+      },
+      {
+        "teamId": 431,
+        "teamName": "Nelson Mandela Bay Stars",
+        "teamSName": "NMBS",
+        "imageId": 172481
+      },
+      {
+        "teamId": 430,
+        "teamName": "Joburg Giants",
+        "teamSName": "JG",
+        "imageId": 172480
+      },
+      {
+        "teamId": 422,
+        "teamName": "Surrey Stars",
+        "teamSName": "SST",
+        "imageId": 172472
+      },
+      {
+        "teamId": 423,
+        "teamName": "Bengaluru Blasters",
+        "teamSName": "BLB",
+        "imageId": 172473,
+        "countryName": "India"
+      },
+      {
+        "teamId": 426,
+        "teamName": "Benoni Zalmi",
+        "teamSName": "BZ",
+        "imageId": 172476
+      },
+      {
+        "teamId": 427,
+        "teamName": "Bloem City Blazers",
+        "teamSName": "BLCB",
+        "imageId": 172477
+      },
+      {
+        "teamId": 428,
+        "teamName": "Cape Town Knight Riders",
+        "teamSName": "CTKR",
+        "imageId": 172478
+      },
+      {
+        "teamId": 429,
+        "teamName": "Durban Wolves",
+        "teamSName": "DW",
+        "imageId": 334700
+      },
+      {
+        "teamId": 394,
+        "teamName": "Kurukshetra Tigers",
+        "teamSName": "KUR",
+        "imageId": 172447,
+        "countryName": "India"
+      },
+      {
+        "teamId": 345,
+        "teamName": "Gujarat Lions",
+        "teamSName": "GL",
+        "imageId": 226174,
+        "countryName": "India"
+      },
+      {
+        "teamId": 346,
+        "teamName": "Rising Pune Supergiant",
+        "teamSName": "RPS",
+        "imageId": 226175,
+        "countryName": "India"
+      }
+    ],
+    "appIndex": {
+      "seoTitle": "Live cricket scores, schedule, news, archive, series | Cricbuzz.com",
+      "webURL": "www.cricbuzz.com/cricket-team/"
+    }
+  }

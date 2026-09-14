@@ -1,0 +1,92 @@
+{% extends "admin/admin_base.html" %}
+
+{% block title %}API Usage{% endblock %}
+
+{% block page_title %}API Usage Statistics{% endblock %}
+
+{% block content %}
+<div class="api-usage-container">
+    <div class="usage-grid">
+        <div class="usage-card">
+            <h3>Cricbuzz API Usage</h3>
+            <p>Tracks requests for Live Scores & Player Search.</p>
+            <div class="chart-container">
+                <canvas id="cricbuzzChart"></canvas>
+            </div>
+            <div class="usage-stats">
+                {{ usage_data.cricbuzz.count }} / {{ usage_data.cricbuzz.limit }} requests used
+            </div>
+        </div>
+
+        <div class="usage-card">
+            <h3>News API Usage</h3>
+            <p>Tracks requests for the news feeds.</p>
+            <div class="chart-container">
+                <canvas id="newsChart"></canvas>
+            </div>
+            <div class="usage-stats">
+                {{ usage_data.news.count }} / {{ usage_data.news.limit }} requests used
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const createUsageChart = (ctx, label, usage, limit) => {
+        const percentage = (usage / limit) * 100;
+        let barColor = 'rgba(40, 167, 69, 0.7)'; 
+        if (percentage > 85) {
+            barColor = 'rgba(255, 193, 7, 0.7)'; 
+        }
+        if (percentage > 95) {
+            barColor = 'rgba(220, 53, 69, 0.7)'; 
+        }
+
+        new Chart(ctx, {
+            type: 'bar',
+            data: {
+                labels: [label],
+                datasets: [{
+                    label: 'Usage',
+                    data: [usage],
+                    backgroundColor: barColor,
+                    borderColor: barColor.replace('0.7', '1'),
+                    borderWidth: 1,
+                    barPercentage: 0.5,
+                }]
+            },
+            options: {
+                indexAxis: 'y',
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        beginAtZero: true,
+                        max: limit,
+                        ticks: {
+                            color: getComputedStyle(document.body).getPropertyValue('--text-secondary')
+                        }
+                    },
+                    y: {
+                        display: false
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    }
+                }
+            }
+        });
+    };
+
+    const cricbuzzCtx = document.getElementById('cricbuzzChart').getContext('2d');
+    createUsageChart(cricbuzzCtx, 'Cricbuzz', {{ usage_data.cricbuzz.count }}, {{ usage_data.cricbuzz.limit }});
+
+    const newsCtx = document.getElementById('newsChart').getContext('2d');
+    createUsageChart(newsCtx, 'News', {{ usage_data.news.count }}, {{ usage_data.news.limit }});
+});
+</script>
+{% endblock %} 

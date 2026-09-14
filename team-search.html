@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cricket Hub | Team Search</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/team-search.css') }}">
+</head>
+<body>
+  <header>
+    <a href="{{ url_for('index') }}">
+      <div class="logo">
+        <img src="{{ url_for('static', filename='img/logo.jpg') }}" alt="Cricket Central Logo" class="logo-img">
+      </div>
+    </a>
+    <nav>
+      <button class="menu-toggle" aria-label="Toggle navigation">
+        <span class="hamburger-icon"></span>
+      </button>
+      <ul>
+        <li><a href="{{ url_for('index') }}">Home</a></li>
+        <li><a href="{{ url_for('news') }}">News</a></li>
+        <li><a href="{{ url_for('live_scores') }}">Live Scores</a></li>
+        <li><a href="{{ url_for('search') }}">Search Player</a></li>
+        <li><a href="{{ url_for('team_search') }}" class="active">Search Team</a></li>
+        <li><a href="{{ url_for('feedback') }}">Feedback</a></li>
+      </ul>
+      <button id="theme-toggle-button" title="Toggle Theme"></button>
+    </nav>
+  </header>
+
+  <main class="main-content">
+    <section class="search-container">
+      <h1>Team Search</h1>
+      <p>Find detailed information about any professional cricket team.</p>
+      
+      <form class="search-form" method="POST" action="{{ url_for('team_search') }}">
+        <div class="search-input-container">
+            <input type="number" name="team_id" id="team-search-input" class="search-input" placeholder="Enter Team ID..." autocomplete="off" min="1">
+        </div>
+        <button type="submit">Search Team</button>
+      </form>
+      
+      <p class="id-finder-link">
+        <a href="{{ url_for('team_search', show_ids='true') }}">Don't know the team ID? Click here to find it.</a>
+      </p>
+
+      {% if error %}
+        <div class="search-error">{{ error }}</div>
+      {% endif %}
+    </section>
+
+    <section class="results-container">
+      {% if team_data %}
+      <div class="team-results">
+          <h2 class="team-name-title">Players for: {{ team_data.name }}</h2>
+          {% for category in team_data.player_categories %}
+              <h3 class="player-category-title">{{ category.name }}</h3>
+              <div class="player-grid">
+                  {% for player in category.players %}
+                  <div class="player-card">
+                      <img src="{{ player.image_url }}" alt="Image of {{ player.name }}" class="player-image">
+                      <div class="player-info">
+                          <h4 class="player-name">{{ player.name }}</h4>
+                          <p class="player-detail">{{ player.battingStyle | default('', true) }}</p>
+                          <p class="player-detail">{{ player.bowlingStyle | default('', true) }}</p>
+                      </div>
+                  </div>
+                  {% endfor %}
+              </div>
+          {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if show_ids %}
+      <div class="team-id-tables">
+        <a href="{{ url_for('team_search') }}" class="back-to-search">Back to Team Search</a>
+
+        <form method="GET" action="{{ url_for('team_search') }}" class="id-search-form">
+            <input type="hidden" name="show_ids" value="true">
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="team-category">Select Category:</label>
+                    <select name="team_category" id="team-category" onchange="this.form.submit()">
+                        <option value="" {% if not team_category_filter %}selected{% endif %}>All Categories</option>
+                        <option value="international" {% if team_category_filter == 'international' %}selected{% endif %}>International</option>
+                        <option value="league" {% if team_category_filter == 'league' %}selected{% endif %}>League</option>
+                        <option value="domestic" {% if team_category_filter == 'domestic' %}selected{% endif %}>Domestic</option>
+                        <option value="women" {% if team_category_filter == 'women' %}selected{% endif %}>Women</option>
+                    </select>
+                </div>
+                {% if team_category_filter %}
+                <div class="form-group">
+                    <label for="team-name-query">Search by Name:</label>
+                    <div class="autocomplete-container">
+                        <input type="text" name="team_name_query" id="team-name-query" placeholder="Enter team name..." value="{{ request.args.get('team_name_query', '') }}" autocomplete="off">
+                        <div id="autocomplete-results-team" class="autocomplete-items"></div>
+                    </div>
+                </div>
+                <div class="form-group form-group-button">
+                    <button type="submit">Search</button>
+                </div>
+                {% endif %}
+            </div>
+        </form>
+
+        {% for category in team_lists %}
+            {% if category.teams %}
+            <h2 class="team-category-heading">{{ category.name }}</h2>
+            <div class="table-responsive">
+              <table class="team-id-table">
+                  <thead>
+                      <tr>
+                          <th>ID</th>
+                          <th>Name</th>
+                          <th>Short Name</th>
+                          <th>Country</th>
+                      </tr>
+                  </thead>
+                  <tbody>
+                      {% for team in category.teams %}
+                        {% if team.teamId %}
+                          <tr>
+                              <td>{{ team.teamId }}</td>
+                              <td>{{ team.teamName }}</td>
+                              <td>{{ team.teamSName | default('N/A') }}</td>
+                              <td>{{ team.countryName | default('N/A') }}</td>
+                          </tr>
+                        {% endif %}
+                      {% endfor %}
+                  </tbody>
+              </table>
+            </div>
+            {% endif %}
+        {% endfor %}
+      </div>
+      {% endif %}
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 All rights reserved.</p>
+  </footer>
+  <script src="{{ url_for('static', filename='js/theme.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/nav.js') }}"></script>
+  <script>
+    if (performance.getEntriesByType("navigation")[0].type === 'reload') {
+        const url = new URL(window.location);
+        if (url.searchParams.has('team_id')) {
+            window.location.href = "{{ url_for('team_search') }}";
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const teamSearchInput = document.getElementById('team-name-query');
+        if (!teamSearchInput) return;
+
+        const teamCategorySelect = document.getElementById('team-category');
+        const resultsContainer = document.getElementById('autocomplete-results-team');
+        let debounceTimer;
+
+        function debounce(func, delay) {
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(func, delay);
+        }
+
+        async function handleTeamInput() {
+            const query = teamSearchInput.value;
+            const category = teamCategorySelect.value;
+            resultsContainer.innerHTML = '';
+
+            if (query.length < 1 || !category) {
+                resultsContainer.style.display = 'none';
+                return;
+            }
+
+            try {
+                const response = await fetch(`/autocomplete-team?category=${category}&query=${encodeURIComponent(query)}`);
+                if (!response.ok) throw new Error('Network response was not ok');
+                
+                const teams = await response.json();
+
+                if (teams.length > 0) {
+                    resultsContainer.style.display = 'block';
+                    teams.forEach(team => {
+                        const div = document.createElement('div');
+                        const regex = new RegExp(`(${query})`, 'gi');
+                        div.innerHTML = team.name.replace(regex, '<strong>$1</strong>');
+                        
+                        div.addEventListener('click', () => {
+                            teamSearchInput.value = team.name;
+                            resultsContainer.style.display = 'none';
+                            teamSearchInput.form.submit();
+                        });
+                        resultsContainer.appendChild(div);
+                    });
+                } else {
+                    resultsContainer.style.display = 'none';
+                }
+            } catch (error) {
+                console.error('Error fetching autocomplete data:', error);
+                resultsContainer.style.display = 'none';
+            }
+        }
+
+        teamSearchInput.addEventListener('input', () => debounce(handleTeamInput, 300));
+
+        document.addEventListener('click', (e) => {
+            if (e.target !== teamSearchInput) {
+                resultsContainer.style.display = 'none';
+            }
+        });
+    });
+  </script>
+</body>
+</html> 

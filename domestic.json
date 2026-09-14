@@ -1,0 +1,2237 @@
+{
+    "list": [
+      {
+        "teamName": "Domestic Teams"
+      },
+      {
+        "teamId": 542,
+        "teamName": "Peru",
+        "teamSName": "PER",
+        "imageId": 172593
+      },
+      {
+        "teamId": 554,
+        "teamName": "Israel",
+        "teamSName": "ISR",
+        "imageId": 172606
+      },
+      {
+        "teamId": 555,
+        "teamName": "Bhutan",
+        "teamSName": "BTN",
+        "imageId": 172607
+      },
+      {
+        "teamId": 556,
+        "teamName": "Finland",
+        "teamSName": "FIN",
+        "imageId": 172608
+      },
+      {
+        "teamId": 557,
+        "teamName": "Isle of Man",
+        "teamSName": "IOM",
+        "imageId": 172609
+      },
+      {
+        "teamId": 558,
+        "teamName": "Bulgaria",
+        "teamSName": "BGR",
+        "imageId": 172610,
+        "countryName": "Bulgaria"
+      },
+      {
+        "teamId": 559,
+        "teamName": "Sierra Leone",
+        "teamSName": "SLE",
+        "imageId": 172611
+      },
+      {
+        "teamId": 560,
+        "teamName": "Brazil",
+        "teamSName": "BRAZIL",
+        "imageId": 172612
+      },
+      {
+        "teamId": 561,
+        "teamName": "Czech Republic",
+        "teamSName": "CZE",
+        "imageId": 172613
+      },
+      {
+        "teamId": 562,
+        "teamName": "Saint Helena",
+        "teamSName": "SHN",
+        "imageId": 172614
+      },
+      {
+        "teamId": 553,
+        "teamName": "Malawi",
+        "teamSName": "MWI",
+        "imageId": 172605
+      },
+      {
+        "teamId": 552,
+        "teamName": "Chile",
+        "teamSName": "CHL",
+        "imageId": 172604
+      },
+      {
+        "teamId": 543,
+        "teamName": "Bahrain",
+        "teamSName": "BHR",
+        "imageId": 172594
+      },
+      {
+        "teamId": 544,
+        "teamName": "Mexico",
+        "teamSName": "MEX",
+        "imageId": 172595
+      },
+      {
+        "teamId": 545,
+        "teamName": "Samoa",
+        "teamSName": "WSM",
+        "imageId": 172596
+      },
+      {
+        "teamId": 546,
+        "teamName": "Panama",
+        "teamSName": "PAN",
+        "imageId": 172597
+      },
+      {
+        "teamId": 547,
+        "teamName": "Japan",
+        "teamSName": "JPN",
+        "imageId": 248418
+      },
+      {
+        "teamId": 548,
+        "teamName": "Costa Rica",
+        "teamSName": "CRI",
+        "imageId": 172600,
+        "countryName": "Costa Rica"
+      },
+      {
+        "teamId": 549,
+        "teamName": "Argentina",
+        "teamSName": "ARG",
+        "imageId": 172601
+      },
+      {
+        "teamId": 550,
+        "teamName": "Hungary",
+        "teamSName": "HUN",
+        "imageId": 172602
+      },
+      {
+        "teamId": 551,
+        "teamName": "Mozambique",
+        "teamSName": "MOZ",
+        "imageId": 172603
+      },
+      {
+        "teamId": 563,
+        "teamName": "Maldives",
+        "teamSName": "MDV",
+        "imageId": 172615
+      },
+      {
+        "teamId": 564,
+        "teamName": "Gibraltar",
+        "teamSName": "GIB",
+        "imageId": 172616
+      },
+      {
+        "teamId": 582,
+        "teamName": "SoBo SuperSonics",
+        "teamSName": "SBS",
+        "imageId": 172628,
+        "countryName": "India"
+      },
+      {
+        "teamId": 583,
+        "teamName": "Shivaji Park Lions",
+        "teamSName": "SPL",
+        "imageId": 172629,
+        "countryName": "India"
+      },
+      {
+        "teamId": 584,
+        "teamName": "NaMo Bandra Blasters",
+        "teamSName": "NBB",
+        "imageId": 172630,
+        "countryName": "India"
+      },
+      {
+        "teamId": 585,
+        "teamName": "ARCS Andheri",
+        "teamSName": "AA",
+        "imageId": 172631,
+        "countryName": "India"
+      },
+      {
+        "teamId": 586,
+        "teamName": "Sorath Lions",
+        "teamSName": "SOL",
+        "imageId": 172632,
+        "countryName": "India"
+      },
+      {
+        "teamId": 587,
+        "teamName": "Gohilwad Gladiators",
+        "teamSName": "GGS",
+        "imageId": 172633,
+        "countryName": "India"
+      },
+      {
+        "teamId": 588,
+        "teamName": "Halar Heroes",
+        "teamSName": "HHS",
+        "imageId": 172634,
+        "countryName": "India"
+      },
+      {
+        "teamId": 589,
+        "teamName": "Zalawad Royals",
+        "teamSName": "ZR",
+        "imageId": 172635,
+        "countryName": "India"
+      },
+      {
+        "teamId": 590,
+        "teamName": "Kutch Warriors",
+        "teamSName": "KUTW",
+        "imageId": 172636,
+        "countryName": "India"
+      },
+      {
+        "teamId": 581,
+        "teamName": "North Mumbai Panthers",
+        "teamSName": "NMP",
+        "imageId": 172627,
+        "countryName": "India"
+      },
+      {
+        "teamId": 580,
+        "teamName": "Eagle Thane Strikers",
+        "teamSName": "ETS",
+        "imageId": 172626,
+        "countryName": "India"
+      },
+      {
+        "teamId": 565,
+        "teamName": "Myanmar",
+        "teamSName": "MMR",
+        "imageId": 172617
+      },
+      {
+        "teamId": 566,
+        "teamName": "Indonesia",
+        "teamSName": "IDN",
+        "imageId": 172618
+      },
+      {
+        "teamId": 567,
+        "teamName": "Gambia",
+        "teamSName": "GM",
+        "imageId": 172619
+      },
+      {
+        "teamId": 568,
+        "teamName": "Swaziland",
+        "teamSName": "SWZ",
+        "imageId": 172620
+      },
+      {
+        "teamId": 569,
+        "teamName": "Rwanda",
+        "teamSName": "RWA",
+        "imageId": 172621
+      },
+      {
+        "teamId": 570,
+        "teamName": "Lesotho",
+        "teamSName": "LSO",
+        "imageId": 172622
+      },
+      {
+        "teamId": 571,
+        "teamName": "Saudi Arabia",
+        "teamSName": "SAU",
+        "imageId": 172623
+      },
+      {
+        "teamId": 578,
+        "teamName": "Aakash Tigers MWS",
+        "teamSName": "ATMWS",
+        "imageId": 172624,
+        "countryName": "India"
+      },
+      {
+        "teamId": 579,
+        "teamName": "Triumphs Knights MNE",
+        "teamSName": "TKMNE",
+        "imageId": 172625,
+        "countryName": "India"
+      },
+      {
+        "teamId": 591,
+        "teamName": "Brampton Wolves",
+        "teamSName": "BTW",
+        "imageId": 248398
+      },
+      {
+        "teamId": 435,
+        "teamName": "Ireland A",
+        "teamSName": "IREA",
+        "imageId": 172485
+      },
+      {
+        "teamId": 456,
+        "teamName": "CWI B Team",
+        "teamSName": "CWIB",
+        "imageId": 172504
+      },
+      {
+        "teamId": 460,
+        "teamName": "Bihar",
+        "teamSName": "BIH",
+        "imageId": 172508,
+        "countryName": "India"
+      },
+      {
+        "teamId": 461,
+        "teamName": "Manipur",
+        "teamSName": "MNP",
+        "imageId": 172509,
+        "countryName": "India"
+      },
+      {
+        "teamId": 462,
+        "teamName": "Meghalaya",
+        "teamSName": "MGLY",
+        "imageId": 172510,
+        "countryName": "India"
+      },
+      {
+        "teamId": 463,
+        "teamName": "Mizoram",
+        "teamSName": "MIZ",
+        "imageId": 172511,
+        "countryName": "India"
+      },
+      {
+        "teamId": 464,
+        "teamName": "Nagaland",
+        "teamSName": "NGL",
+        "imageId": 172512,
+        "countryName": "India"
+      },
+      {
+        "teamId": 465,
+        "teamName": "Puducherry",
+        "teamSName": "PDC",
+        "imageId": 172513,
+        "countryName": "India"
+      },
+      {
+        "teamId": 466,
+        "teamName": "Sikkim",
+        "teamSName": "SKM",
+        "imageId": 172514,
+        "countryName": "India"
+      },
+      {
+        "teamId": 467,
+        "teamName": "Uttarakhand",
+        "teamSName": "UTK",
+        "imageId": 172515,
+        "countryName": "India"
+      },
+      {
+        "teamId": 454,
+        "teamName": "Winnipeg Hawks",
+        "teamSName": "WPH",
+        "imageId": 172502
+      },
+      {
+        "teamId": 453,
+        "teamName": "Vancouver Knights",
+        "teamSName": "VCK",
+        "imageId": 172501
+      },
+      {
+        "teamId": 436,
+        "teamName": "Western Australia XI",
+        "teamSName": "WAXI",
+        "imageId": 172486
+      },
+      {
+        "teamId": 438,
+        "teamName": "Hong Kong Island United",
+        "teamSName": "HKIU",
+        "imageId": 248414
+      },
+      {
+        "teamId": 441,
+        "teamName": "Colombo",
+        "teamSName": "COL",
+        "imageId": 172489
+      },
+      {
+        "teamId": 442,
+        "teamName": "Kandy",
+        "teamSName": "KAN",
+        "imageId": 172490
+      },
+      {
+        "teamId": 443,
+        "teamName": "Galle",
+        "teamSName": "GAL",
+        "imageId": 172491
+      },
+      {
+        "teamId": 444,
+        "teamName": "Dambulla",
+        "teamSName": "DAM",
+        "imageId": 172492
+      },
+      {
+        "teamId": 450,
+        "teamName": "Toronto Nationals",
+        "teamSName": "TTN",
+        "imageId": 172498
+      },
+      {
+        "teamId": 451,
+        "teamName": "Montreal Tigers",
+        "teamSName": "MNT",
+        "imageId": 172499
+      },
+      {
+        "teamId": 452,
+        "teamName": "Edmonton Royals",
+        "teamSName": "EDR",
+        "imageId": 172500
+      },
+      {
+        "teamId": 468,
+        "teamName": "Arunachal Pradesh",
+        "teamSName": "ARNP",
+        "imageId": 172516,
+        "countryName": "India"
+      },
+      {
+        "teamId": 469,
+        "teamName": "Hong Kong U19",
+        "teamSName": "HKU19",
+        "imageId": 172517
+      },
+      {
+        "teamId": 531,
+        "teamName": "Ghana",
+        "teamSName": "GH",
+        "imageId": 172581
+      },
+      {
+        "teamId": 532,
+        "teamName": "Austria",
+        "teamSName": "AUT",
+        "imageId": 172583
+      },
+      {
+        "teamId": 533,
+        "teamName": "Guernsey",
+        "teamSName": "GGY",
+        "imageId": 172584
+      },
+      {
+        "teamId": 534,
+        "teamName": "Sweden",
+        "teamSName": "SWE",
+        "imageId": 248454
+      },
+      {
+        "teamId": 535,
+        "teamName": "Tanzania",
+        "teamSName": "TAN",
+        "imageId": 172586
+      },
+      {
+        "teamId": 536,
+        "teamName": "Nigeria",
+        "teamSName": "NGA",
+        "imageId": 248436
+      },
+      {
+        "teamId": 537,
+        "teamName": "Luxembourg",
+        "teamSName": "LUX",
+        "imageId": 172588
+      },
+      {
+        "teamId": 538,
+        "teamName": "Philippines",
+        "teamSName": "PHI",
+        "imageId": 172589
+      },
+      {
+        "teamId": 539,
+        "teamName": "France",
+        "teamSName": "FRA",
+        "imageId": 172590
+      },
+      {
+        "teamId": 528,
+        "teamName": "Zimbabwe Chairmans XI",
+        "teamSName": "ZIMCXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 526,
+        "teamName": "Estonia",
+        "teamSName": "EST",
+        "imageId": 172576
+      },
+      {
+        "teamId": 481,
+        "teamName": "India C",
+        "teamSName": "INDC",
+        "imageId": 544438,
+        "countryName": "India"
+      },
+      {
+        "teamId": 518,
+        "teamName": "Afghanistan U23",
+        "teamSName": "AFGU23",
+        "imageId": 172568
+      },
+      {
+        "teamId": 519,
+        "teamName": "India U19 A",
+        "teamSName": "INDU19A",
+        "imageId": 172569,
+        "countryName": "India"
+      },
+      {
+        "teamId": 520,
+        "teamName": "India U19 B",
+        "teamSName": "INDU19B",
+        "imageId": 172570,
+        "countryName": "India"
+      },
+      {
+        "teamId": 521,
+        "teamName": "Estonia XI",
+        "teamSName": "ESTXI",
+        "imageId": 172571
+      },
+      {
+        "teamId": 522,
+        "teamName": "Malta",
+        "teamSName": "Malta",
+        "imageId": 172572
+      },
+      {
+        "teamId": 523,
+        "teamName": "Spain",
+        "teamSName": "Spain",
+        "imageId": 248450
+      },
+      {
+        "teamId": 524,
+        "teamName": "China",
+        "teamSName": "CHN",
+        "imageId": 172574
+      },
+      {
+        "teamId": 525,
+        "teamName": "Qatar",
+        "teamSName": "QAT",
+        "imageId": 172575
+      },
+      {
+        "teamId": 540,
+        "teamName": "Belize",
+        "teamSName": "BLZ",
+        "imageId": 172591
+      },
+      {
+        "teamId": 593,
+        "teamName": "Kuwait U19",
+        "teamSName": "KUWU19",
+        "imageId": 248425
+      },
+      {
+        "teamId": 1062,
+        "teamName": "Switzerland",
+        "teamSName": "SUI",
+        "imageId": 247207
+      },
+      {
+        "teamId": 1172,
+        "teamName": "New Zealand Legends",
+        "teamSName": "NZL",
+        "imageId": 242502
+      },
+      {
+        "teamId": 1179,
+        "teamName": "Cameroon",
+        "teamSName": "CAM",
+        "imageId": 247194
+      },
+      {
+        "teamId": 1209,
+        "teamName": "Isle of Man Women",
+        "teamSName": "IOMW",
+        "imageId": 248416
+      },
+      {
+        "teamId": 1265,
+        "teamName": "Mali",
+        "teamSName": "MALI",
+        "imageId": 248522
+      },
+      {
+        "teamId": 1272,
+        "teamName": "St Helena",
+        "teamSName": "STH",
+        "imageId": 248526
+      },
+      {
+        "teamId": 1277,
+        "teamName": "Seychelles",
+        "teamSName": "SEY",
+        "imageId": 248523
+      },
+      {
+        "teamId": 1284,
+        "teamName": "Eswatini",
+        "teamSName": "SWT",
+        "imageId": 248525
+      },
+      {
+        "teamId": 1447,
+        "teamName": "Cambodia",
+        "teamSName": "CBD",
+        "imageId": 254834
+      },
+      {
+        "teamId": 1545,
+        "teamName": "Mauritius",
+        "teamSName": "MAU",
+        "imageId": 333483
+      },
+      {
+        "teamId": 1165,
+        "teamName": "Gujarat Giant",
+        "teamSName": "GUJG",
+        "imageId": 242501
+      },
+      {
+        "teamId": 1158,
+        "teamName": "India Capitals",
+        "teamSName": "INDCAP",
+        "imageId": 242500
+      },
+      {
+        "teamId": 1067,
+        "teamName": "Serbia",
+        "teamSName": "SRB",
+        "imageId": 247205
+      },
+      {
+        "teamId": 1069,
+        "teamName": "Slovenia",
+        "teamSName": "SLV",
+        "imageId": 247206
+      },
+      {
+        "teamId": 1076,
+        "teamName": "Croatia",
+        "teamSName": "CRT",
+        "imageId": 247197
+      },
+      {
+        "teamId": 1081,
+        "teamName": "Greece",
+        "teamSName": "GRC",
+        "imageId": 247199
+      },
+      {
+        "teamId": 1111,
+        "teamName": "Cyprus",
+        "teamSName": "CYP",
+        "imageId": 247198
+      },
+      {
+        "teamId": 1132,
+        "teamName": "Cook Islands",
+        "teamSName": "CIS",
+        "imageId": 341077
+      },
+      {
+        "teamId": 1146,
+        "teamName": "North East Zone",
+        "teamSName": "NEZONE",
+        "imageId": 242496
+      },
+      {
+        "teamId": 1151,
+        "teamName": "Bhilwara Kings",
+        "teamSName": "BK",
+        "imageId": 242497
+      },
+      {
+        "teamId": 1153,
+        "teamName": "Manipal Tigers",
+        "teamSName": "MT",
+        "imageId": 242498
+      },
+      {
+        "teamId": 1615,
+        "teamName": "Q1",
+        "teamSName": "Q1",
+        "imageId": 174284
+      },
+      {
+        "teamId": 1622,
+        "teamName": "Q2",
+        "teamSName": "Q2",
+        "imageId": 174284
+      },
+      {
+        "teamId": 1965,
+        "teamName": "Hong Kong A",
+        "teamSName": "HKA",
+        "imageId": 174284,
+        "countryName": "Hong Kong"
+      },
+      {
+        "teamId": 1974,
+        "teamName": "University Sport South Africa",
+        "teamSName": "UNISportSA",
+        "imageId": 174284,
+        "countryName": "South Africa"
+      },
+      {
+        "teamId": 2001,
+        "teamName": "Zambia",
+        "teamSName": "ZMB",
+        "imageId": 506188,
+        "countryName": "Zambia"
+      },
+      {
+        "teamId": 2050,
+        "teamName": "First Class Counties XI",
+        "teamSName": "FCCXI",
+        "imageId": 510054,
+        "countryName": "England"
+      },
+      {
+        "teamId": 2187,
+        "teamName": "Colombia",
+        "teamSName": "CLM",
+        "imageId": 563228,
+        "countryName": "Colombia"
+      },
+      {
+        "teamId": 2193,
+        "teamName": "Uruguay",
+        "teamSName": "URG",
+        "imageId": 563227,
+        "countryName": "Uruguay"
+      },
+      {
+        "teamId": 2277,
+        "teamName": "West Indies Select XI",
+        "teamSName": "WISXI",
+        "imageId": 577433,
+        "countryName": "West Indies"
+      },
+      {
+        "teamId": 2285,
+        "teamName": "Suriname",
+        "teamSName": "SN",
+        "imageId": 582333,
+        "countryName": "Suriname"
+      },
+      {
+        "teamId": 2377,
+        "teamName": "Falkland Islands",
+        "teamSName": "FALK",
+        "imageId": 624542,
+        "countryName": "Falkland Islands"
+      },
+      {
+        "teamId": 1846,
+        "teamName": "Southern Super Stars",
+        "teamSName": "SNSS",
+        "imageId": 356644
+      },
+      {
+        "teamId": 1843,
+        "teamName": "Urbanrisers Hyderabad",
+        "teamSName": "URH",
+        "imageId": 356645
+      },
+      {
+        "teamId": 1657,
+        "teamName": "United Arab Emirates A",
+        "teamSName": "UAEA",
+        "imageId": 334735
+      },
+      {
+        "teamId": 1664,
+        "teamName": "Oman A",
+        "teamSName": "OMANA",
+        "imageId": 334737
+      },
+      {
+        "teamId": 1759,
+        "teamName": "Boland",
+        "teamSName": "BOL",
+        "imageId": 349610
+      },
+      {
+        "teamId": 1766,
+        "teamName": "KwaZulu-Natal Inland",
+        "teamSName": "KZNIN",
+        "imageId": 349611
+      },
+      {
+        "teamId": 1768,
+        "teamName": "South Western Districts",
+        "teamSName": "SWD",
+        "imageId": 349609
+      },
+      {
+        "teamId": 1775,
+        "teamName": "Border",
+        "teamSName": "BOR",
+        "imageId": 349602
+      },
+      {
+        "teamId": 1782,
+        "teamName": "South Africa Emerging Players",
+        "teamSName": "SAEP",
+        "imageId": 349593
+      },
+      {
+        "teamId": 1804,
+        "teamName": "Mongolia",
+        "teamSName": "MGL",
+        "imageId": 349598
+      },
+      {
+        "teamId": 1815,
+        "teamName": "United States of America U19",
+        "teamSName": "USAU19",
+        "imageId": 349589,
+        "countryName": "United States of America"
+      },
+      {
+        "teamId": 2387,
+        "teamName": "Turks and Caicos Island",
+        "teamSName": "TCL",
+        "imageId": 663369,
+        "countryName": "Turks and Caicos Island"
+      },
+      {
+        "teamId": 595,
+        "teamName": "Chandigarh",
+        "teamSName": "CDG",
+        "imageId": 244269,
+        "countryName": "India"
+      },
+      {
+        "teamId": 754,
+        "teamName": "Team Green",
+        "teamSName": "PAKGR",
+        "imageId": 174284
+      },
+      {
+        "teamId": 758,
+        "teamName": "Team Morgan",
+        "teamSName": "TMG",
+        "imageId": 174284
+      },
+      {
+        "teamId": 759,
+        "teamName": "Team Moeen",
+        "teamSName": "TMO",
+        "imageId": 174284
+      },
+      {
+        "teamId": 763,
+        "teamName": "Team Rausa",
+        "teamSName": "TR",
+        "imageId": 174284
+      },
+      {
+        "teamId": 768,
+        "teamName": "Team Caulfield",
+        "teamSName": "TC",
+        "imageId": 174284
+      },
+      {
+        "teamId": 770,
+        "teamName": "Team Vince",
+        "teamSName": "TV",
+        "imageId": 174284
+      },
+      {
+        "teamId": 779,
+        "teamName": "Finch XI",
+        "teamSName": "FINXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 784,
+        "teamName": "Cummins XI",
+        "teamSName": "CUMXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 832,
+        "teamName": "Team Root",
+        "teamSName": "Root",
+        "imageId": 174284
+      },
+      {
+        "teamId": 749,
+        "teamName": "Team White",
+        "teamSName": "PAKWT",
+        "imageId": 174284
+      },
+      {
+        "teamId": 748,
+        "teamName": "Team Buttler",
+        "teamSName": "TBR",
+        "imageId": 174284
+      },
+      {
+        "teamId": 596,
+        "teamName": "Portugal",
+        "teamSName": "PORT",
+        "imageId": 248442,
+        "countryName": "Portugal"
+      },
+      {
+        "teamId": 603,
+        "teamName": "Japan U19",
+        "teamSName": "JPNU19",
+        "imageId": 248420
+      },
+      {
+        "teamId": 604,
+        "teamName": "Nigeria U19",
+        "teamSName": "NGAU19",
+        "imageId": 248435
+      },
+      {
+        "teamId": 657,
+        "teamName": "Ponting XI",
+        "teamSName": "PTXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 666,
+        "teamName": "Gilchrist XI",
+        "teamSName": "GCXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 729,
+        "teamName": "Sri Lanka Cricket XI",
+        "teamSName": "SLCXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 733,
+        "teamName": "WI Holder XI",
+        "teamSName": "WIHOXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 738,
+        "teamName": "WI Brathwaite XI",
+        "teamSName": "WIBRXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 743,
+        "teamName": "Team Stokes",
+        "teamSName": "TS",
+        "imageId": 174284
+      },
+      {
+        "teamId": 843,
+        "teamName": "Bangladesh Emerging Team",
+        "teamSName": "BANE",
+        "imageId": 202804
+      },
+      {
+        "teamId": 872,
+        "teamName": "Team Latham",
+        "teamSName": "TLAT",
+        "imageId": 174284
+      },
+      {
+        "teamId": 922,
+        "teamName": "North West",
+        "teamSName": "NWEST",
+        "imageId": 248439
+      },
+      {
+        "teamId": 923,
+        "teamName": "Northern Cape",
+        "teamSName": "NCAPE",
+        "imageId": 248438
+      },
+      {
+        "teamId": 927,
+        "teamName": "Eastern Cape",
+        "teamSName": "ECAPE",
+        "imageId": 248405
+      },
+      {
+        "teamId": 928,
+        "teamName": "Rocks",
+        "teamSName": "ROCKS",
+        "imageId": 248446
+      },
+      {
+        "teamId": 933,
+        "teamName": "Eastern Storm",
+        "teamSName": "ESTORM",
+        "imageId": 248407
+      },
+      {
+        "teamId": 956,
+        "teamName": "Uganda U19",
+        "teamSName": "UGAU19",
+        "imageId": 248458
+      },
+      {
+        "teamId": 1018,
+        "teamName": "Bahamas",
+        "teamSName": "BHM",
+        "imageId": 248394
+      },
+      {
+        "teamId": 1020,
+        "teamName": "Cayman Islands",
+        "teamSName": "CAYM",
+        "imageId": 248399
+      },
+      {
+        "teamId": 1027,
+        "teamName": "Norway",
+        "teamSName": "NOR",
+        "imageId": 247201
+      },
+      {
+        "teamId": 918,
+        "teamName": "Garden Route Badgers",
+        "teamSName": "GRB",
+        "imageId": 247396
+      },
+      {
+        "teamId": 917,
+        "teamName": "Western Province",
+        "teamSName": "WPR",
+        "imageId": 248460
+      },
+      {
+        "teamId": 876,
+        "teamName": "Team Williamson",
+        "teamSName": "TWS",
+        "imageId": 174284
+      },
+      {
+        "teamId": 881,
+        "teamName": "Zimbabwe Select XI",
+        "teamSName": "ZIMSXI",
+        "imageId": 248461,
+        "countryName": "Zimbabwe"
+      },
+      {
+        "teamId": 886,
+        "teamName": "Professional County Club Select XI",
+        "teamSName": "PCCSXI",
+        "imageId": 174284,
+        "countryName": "England"
+      },
+      {
+        "teamId": 887,
+        "teamName": "A1",
+        "teamSName": "A1",
+        "imageId": 174284
+      },
+      {
+        "teamId": 892,
+        "teamName": "A2",
+        "teamSName": "A2",
+        "imageId": 174284
+      },
+      {
+        "teamId": 897,
+        "teamName": "Turkey",
+        "teamSName": "TKY",
+        "imageId": 247208
+      },
+      {
+        "teamId": 903,
+        "teamName": "Mpumalanga Rhinos",
+        "teamSName": "MPR",
+        "imageId": 248434
+      },
+      {
+        "teamId": 908,
+        "teamName": "Tuskers",
+        "teamSName": "TUSKS",
+        "imageId": 248457
+      },
+      {
+        "teamId": 912,
+        "teamName": "Limpopo",
+        "teamSName": "LIMPO",
+        "imageId": 248430
+      },
+      {
+        "teamId": 1041,
+        "teamName": "Romania",
+        "teamSName": "ROM",
+        "imageId": 247204
+      },
+      {
+        "teamId": 425,
+        "teamName": "World XI",
+        "teamSName": "WXI",
+        "imageId": 172475
+      },
+      {
+        "teamId": 154,
+        "teamName": "Sri Lanka Cricket Presidents XI",
+        "teamSName": "SLCPXI",
+        "imageId": 172221
+      },
+      {
+        "teamId": 172,
+        "teamName": "Sri Lanka U19",
+        "teamSName": "SLU19",
+        "imageId": 172240
+      },
+      {
+        "teamId": 173,
+        "teamName": "England U19",
+        "teamSName": "ENGU19",
+        "imageId": 172241
+      },
+      {
+        "teamId": 186,
+        "teamName": "Auckland",
+        "teamSName": "AKL",
+        "imageId": 172246
+      },
+      {
+        "teamId": 187,
+        "teamName": "Ruhunu",
+        "teamSName": "RUH",
+        "imageId": 172247
+      },
+      {
+        "teamId": 191,
+        "teamName": "Cricket Australia Chairmans XI",
+        "teamSName": "CACXI",
+        "imageId": 172251
+      },
+      {
+        "teamId": 200,
+        "teamName": "Haryana",
+        "teamSName": "HAR",
+        "imageId": 172260,
+        "countryName": "India"
+      },
+      {
+        "teamId": 207,
+        "teamName": "West Indies A",
+        "teamSName": "WIA",
+        "imageId": 172267
+      },
+      {
+        "teamId": 208,
+        "teamName": "Basnahira Cricket Dundee",
+        "teamSName": "BCD",
+        "imageId": 172268
+      },
+      {
+        "teamId": 209,
+        "teamName": "Kandurata Warriors",
+        "teamSName": "KW",
+        "imageId": 172269
+      },
+      {
+        "teamId": 171,
+        "teamName": "Rajasthan",
+        "teamSName": "RAJ",
+        "imageId": 172239,
+        "countryName": "India"
+      },
+      {
+        "teamId": 170,
+        "teamName": "Baroda",
+        "teamSName": "BRD",
+        "imageId": 172238,
+        "countryName": "India"
+      },
+      {
+        "teamId": 158,
+        "teamName": "South Australia",
+        "teamSName": "SAUS",
+        "imageId": 172225
+      },
+      {
+        "teamId": 160,
+        "teamName": "East Africa",
+        "teamSName": "EA",
+        "imageId": 172228
+      },
+      {
+        "teamId": 162,
+        "teamName": "Assam",
+        "teamSName": "ASM",
+        "imageId": 172230,
+        "countryName": "India"
+      },
+      {
+        "teamId": 163,
+        "teamName": "Gujarat",
+        "teamSName": "GUJ",
+        "imageId": 172232,
+        "countryName": "India"
+      },
+      {
+        "teamId": 164,
+        "teamName": "Queensland",
+        "teamSName": "QL",
+        "imageId": 172233
+      },
+      {
+        "teamId": 165,
+        "teamName": "England Cricket Board XI",
+        "teamSName": "ECBXI",
+        "imageId": 172234
+      },
+      {
+        "teamId": 166,
+        "teamName": "Tasmania",
+        "teamSName": "TAS",
+        "imageId": 172235
+      },
+      {
+        "teamId": 167,
+        "teamName": "Madhya Pradesh",
+        "teamSName": "MP",
+        "imageId": 172236,
+        "countryName": "India"
+      },
+      {
+        "teamId": 168,
+        "teamName": "Nondescripts Cricket Club",
+        "teamSName": "NCC",
+        "imageId": 248437
+      },
+      {
+        "teamId": 210,
+        "teamName": "Nagenahira Nagas",
+        "teamSName": "NN",
+        "imageId": 172270
+      },
+      {
+        "teamId": 211,
+        "teamName": "Ruhuna Royals",
+        "teamSName": "RUR",
+        "imageId": 172271
+      },
+      {
+        "teamId": 230,
+        "teamName": "Namibia  U19",
+        "teamSName": "NAMU19",
+        "imageId": 172283
+      },
+      {
+        "teamId": 231,
+        "teamName": "India B",
+        "teamSName": "INDB",
+        "imageId": 544437,
+        "countryName": "India"
+      },
+      {
+        "teamId": 232,
+        "teamName": "Bengal",
+        "teamSName": "BEN",
+        "imageId": 172285,
+        "countryName": "India"
+      },
+      {
+        "teamId": 233,
+        "teamName": "North Zone",
+        "teamSName": "NZONE",
+        "imageId": 172286,
+        "countryName": "India"
+      },
+      {
+        "teamId": 234,
+        "teamName": "West Zone",
+        "teamSName": "WZONE",
+        "imageId": 172287,
+        "countryName": "India"
+      },
+      {
+        "teamId": 235,
+        "teamName": "East Zone",
+        "teamSName": "EZONE",
+        "imageId": 172288,
+        "countryName": "India"
+      },
+      {
+        "teamId": 236,
+        "teamName": "South Zone",
+        "teamSName": "SZONE",
+        "imageId": 172289,
+        "countryName": "India"
+      },
+      {
+        "teamId": 237,
+        "teamName": "Central Zone",
+        "teamSName": "CZONE",
+        "imageId": 172290,
+        "countryName": "India"
+      },
+      {
+        "teamId": 238,
+        "teamName": "Pakistan All Star XI",
+        "teamSName": "PASXI",
+        "imageId": 172291
+      },
+      {
+        "teamId": 229,
+        "teamName": "Nepal U19",
+        "teamSName": "NPLU19",
+        "imageId": 172282
+      },
+      {
+        "teamId": 228,
+        "teamName": "Scotland U19",
+        "teamSName": "SCOU19",
+        "imageId": 172281
+      },
+      {
+        "teamId": 212,
+        "teamName": "Uthura Rudras",
+        "teamSName": "UR",
+        "imageId": 172272
+      },
+      {
+        "teamId": 213,
+        "teamName": "Wayamba United",
+        "teamSName": "WU",
+        "imageId": 172273
+      },
+      {
+        "teamId": 214,
+        "teamName": "Uva Next",
+        "teamSName": "UN",
+        "imageId": 172274
+      },
+      {
+        "teamId": 220,
+        "teamName": "West Indies U19",
+        "teamSName": "WIU19",
+        "imageId": 172275
+      },
+      {
+        "teamId": 221,
+        "teamName": "Zimbabwe U19",
+        "teamSName": "ZIMU19",
+        "imageId": 172276
+      },
+      {
+        "teamId": 222,
+        "teamName": "Papua New Guinea U19",
+        "teamSName": "PNGU19",
+        "imageId": 172277
+      },
+      {
+        "teamId": 223,
+        "teamName": "Afghanistan U19",
+        "teamSName": "AFGU19",
+        "imageId": 172278
+      },
+      {
+        "teamId": 224,
+        "teamName": "Bangladesh U19",
+        "teamSName": "BANU19",
+        "imageId": 172279
+      },
+      {
+        "teamId": 226,
+        "teamName": "Ireland U19",
+        "teamSName": "IREU19",
+        "imageId": 172280
+      },
+      {
+        "teamId": 239,
+        "teamName": "International World XI",
+        "teamSName": "IWXI",
+        "imageId": 172292
+      },
+      {
+        "teamId": 18,
+        "teamName": "India Senior",
+        "teamSName": "INDSR",
+        "imageId": 172136,
+        "countryName": "India"
+      },
+      {
+        "teamId": 57,
+        "teamName": "South Africa U19",
+        "teamSName": "RSAU19",
+        "imageId": 172159
+      },
+      {
+        "teamId": 74,
+        "teamName": "Middlesex",
+        "teamSName": "MDX",
+        "imageId": 172170
+      },
+      {
+        "teamId": 78,
+        "teamName": "India A",
+        "teamSName": "INDA",
+        "imageId": 693099,
+        "countryName": "India"
+      },
+      {
+        "teamId": 79,
+        "teamName": "Australia A",
+        "teamSName": "AUSA",
+        "imageId": 172173
+      },
+      {
+        "teamId": 80,
+        "teamName": "New Zealand A",
+        "teamSName": "NZA",
+        "imageId": 172174
+      },
+      {
+        "teamId": 81,
+        "teamName": "Delhi",
+        "teamSName": "DEL",
+        "imageId": 172175,
+        "countryName": "India"
+      },
+      {
+        "teamId": 82,
+        "teamName": "Rest of India",
+        "teamSName": "ROI",
+        "imageId": 172176,
+        "countryName": "India"
+      },
+      {
+        "teamId": 86,
+        "teamName": "Board Presidents XI",
+        "teamSName": "BPXI",
+        "imageId": 172179,
+        "countryName": "India"
+      },
+      {
+        "teamId": 87,
+        "teamName": "Western Australia",
+        "teamSName": "WA",
+        "imageId": 172180
+      },
+      {
+        "teamId": 56,
+        "teamName": "Pakistan U19",
+        "teamSName": "PAKU19",
+        "imageId": 172158
+      },
+      {
+        "teamId": 55,
+        "teamName": "New Zealand U19",
+        "teamSName": "NZU19",
+        "imageId": 172157
+      },
+      {
+        "teamId": 20,
+        "teamName": "India Green",
+        "teamSName": "INDGREEN",
+        "imageId": 172134,
+        "countryName": "India"
+      },
+      {
+        "teamId": 21,
+        "teamName": "India Red",
+        "teamSName": "INDRED",
+        "imageId": 172135,
+        "countryName": "India"
+      },
+      {
+        "teamId": 36,
+        "teamName": "India Blue",
+        "teamSName": "INDBLUE",
+        "imageId": 172143,
+        "countryName": "India"
+      },
+      {
+        "teamId": 41,
+        "teamName": "Sussex",
+        "teamSName": "SUS",
+        "imageId": 172148
+      },
+      {
+        "teamId": 42,
+        "teamName": "England Lions",
+        "teamSName": "ENGA",
+        "imageId": 172149
+      },
+      {
+        "teamId": 43,
+        "teamName": "Sri Lanka A",
+        "teamSName": "SLA",
+        "imageId": 172150
+      },
+      {
+        "teamId": 52,
+        "teamName": "Victoria",
+        "teamSName": "VIC",
+        "imageId": 172153
+      },
+      {
+        "teamId": 53,
+        "teamName": "ACT Invitational XI",
+        "teamSName": "ACTXI",
+        "imageId": 172154
+      },
+      {
+        "teamId": 54,
+        "teamName": "India U19",
+        "teamSName": "INDU19",
+        "imageId": 172155,
+        "countryName": "India"
+      },
+      {
+        "teamId": 92,
+        "teamName": "Tamil Nadu",
+        "teamSName": "TN",
+        "imageId": 172184,
+        "countryName": "India"
+      },
+      {
+        "teamId": 93,
+        "teamName": "Uttar Pradesh",
+        "teamSName": "UP",
+        "imageId": 172185,
+        "countryName": "India"
+      },
+      {
+        "teamId": 144,
+        "teamName": "Derbyshire",
+        "teamSName": "DERBY",
+        "imageId": 172211
+      },
+      {
+        "teamId": 145,
+        "teamName": "Leicestershire",
+        "teamSName": "LEIC",
+        "imageId": 172212
+      },
+      {
+        "teamId": 146,
+        "teamName": "Yorkshire",
+        "teamSName": "YORKS",
+        "imageId": 172213
+      },
+      {
+        "teamId": 147,
+        "teamName": "Worcestershire",
+        "teamSName": "WORCS",
+        "imageId": 172214
+      },
+      {
+        "teamId": 148,
+        "teamName": "Surrey",
+        "teamSName": "SUR",
+        "imageId": 172215
+      },
+      {
+        "teamId": 149,
+        "teamName": "Glamorgan",
+        "teamSName": "GLAM",
+        "imageId": 172216
+      },
+      {
+        "teamId": 150,
+        "teamName": "Kent",
+        "teamSName": "KENT",
+        "imageId": 172217
+      },
+      {
+        "teamId": 151,
+        "teamName": "Gloucestershire",
+        "teamSName": "GLOUCS",
+        "imageId": 172218
+      },
+      {
+        "teamId": 152,
+        "teamName": "Essex",
+        "teamSName": "ESS",
+        "imageId": 172219
+      },
+      {
+        "teamId": 143,
+        "teamName": "Lancashire",
+        "teamSName": "LANCS",
+        "imageId": 172210
+      },
+      {
+        "teamId": 142,
+        "teamName": "Northamptonshire",
+        "teamSName": "NHNTS",
+        "imageId": 172209
+      },
+      {
+        "teamId": 94,
+        "teamName": "Saurashtra",
+        "teamSName": "SAUR",
+        "imageId": 172186,
+        "countryName": "India"
+      },
+      {
+        "teamId": 95,
+        "teamName": "Mumbai",
+        "teamSName": "MUM",
+        "imageId": 172187,
+        "countryName": "India"
+      },
+      {
+        "teamId": 119,
+        "teamName": "Somerset",
+        "teamSName": "SOM",
+        "imageId": 172199
+      },
+      {
+        "teamId": 128,
+        "teamName": "Karnataka",
+        "teamSName": "KAR",
+        "imageId": 172203,
+        "countryName": "India"
+      },
+      {
+        "teamId": 129,
+        "teamName": "Australia U19",
+        "teamSName": "AUSU19",
+        "imageId": 172204
+      },
+      {
+        "teamId": 130,
+        "teamName": "Windward Islands",
+        "teamSName": "WIS",
+        "imageId": 172205
+      },
+      {
+        "teamId": 139,
+        "teamName": "Nottinghamshire",
+        "teamSName": "NOTTS",
+        "imageId": 172206
+      },
+      {
+        "teamId": 140,
+        "teamName": "Warwickshire",
+        "teamSName": "WARKS",
+        "imageId": 172207
+      },
+      {
+        "teamId": 141,
+        "teamName": "Durham",
+        "teamSName": "DUR",
+        "imageId": 172208
+      },
+      {
+        "teamId": 153,
+        "teamName": "Hampshire",
+        "teamSName": "HAM",
+        "imageId": 172220
+      },
+      {
+        "teamId": 240,
+        "teamName": "Mumbai A",
+        "teamSName": "MUMA",
+        "imageId": 172293,
+        "countryName": "India"
+      },
+      {
+        "teamId": 305,
+        "teamName": "Indian Board Presidents XI",
+        "teamSName": "IBPXI",
+        "imageId": 172354,
+        "countryName": "India"
+      },
+      {
+        "teamId": 341,
+        "teamName": "Afghanistan A",
+        "teamSName": "AFGA",
+        "imageId": 172389
+      },
+      {
+        "teamId": 342,
+        "teamName": "Zimbabwe A",
+        "teamSName": "ZIMA",
+        "imageId": 172390
+      },
+      {
+        "teamId": 347,
+        "teamName": "Himachal Pradesh Cricket Association XI",
+        "teamSName": "HPCAXI",
+        "imageId": 172395,
+        "countryName": "India"
+      },
+      {
+        "teamId": 348,
+        "teamName": "Tamil Nadu Cricket Association Under 17",
+        "teamSName": "TNCAU17",
+        "imageId": 172396,
+        "countryName": "India"
+      },
+      {
+        "teamId": 349,
+        "teamName": "Mumbai Cricket Association XI",
+        "teamSName": "MUMCAXI",
+        "imageId": 172397,
+        "countryName": "India"
+      },
+      {
+        "teamId": 350,
+        "teamName": "West Indies Cricket Board President XI",
+        "teamSName": "WICBPXI",
+        "imageId": 172398
+      },
+      {
+        "teamId": 352,
+        "teamName": "Island Warriors",
+        "teamSName": "IW",
+        "imageId": 248415
+      },
+      {
+        "teamId": 353,
+        "teamName": "Kowloon Cantons",
+        "teamSName": "KC",
+        "imageId": 172400
+      },
+      {
+        "teamId": 354,
+        "teamName": "Lantau Galaxy Riders",
+        "teamSName": "LGR",
+        "imageId": 248429
+      },
+      {
+        "teamId": 326,
+        "teamName": "Fiji U19",
+        "teamSName": "FijiU19",
+        "imageId": 172376
+      },
+      {
+        "teamId": 325,
+        "teamName": "Pakistan A",
+        "teamSName": "PAKA",
+        "imageId": 172375
+      },
+      {
+        "teamId": 306,
+        "teamName": "Cricket Australia XI",
+        "teamSName": "CAXI",
+        "imageId": 172355
+      },
+      {
+        "teamId": 312,
+        "teamName": "Canterbury",
+        "teamSName": "CNTBRY",
+        "imageId": 172362
+      },
+      {
+        "teamId": 313,
+        "teamName": "Central Districts",
+        "teamSName": "CD",
+        "imageId": 172363
+      },
+      {
+        "teamId": 314,
+        "teamName": "Wellington",
+        "teamSName": "WEL",
+        "imageId": 172364
+      },
+      {
+        "teamId": 315,
+        "teamName": "India AT20",
+        "teamSName": "INDAT20",
+        "imageId": 172365,
+        "countryName": "India"
+      },
+      {
+        "teamId": 316,
+        "teamName": "Sachin Blasters",
+        "teamSName": "SB",
+        "imageId": 172366
+      },
+      {
+        "teamId": 317,
+        "teamName": "Warne Warriors",
+        "teamSName": "WW",
+        "imageId": 172367
+      },
+      {
+        "teamId": 323,
+        "teamName": "Bangladesh Cricket Board XI",
+        "teamSName": "BCBXI",
+        "imageId": 172373
+      },
+      {
+        "teamId": 324,
+        "teamName": "New Zealand Board Presidents XI",
+        "teamSName": "NZBPXI",
+        "imageId": 172374
+      },
+      {
+        "teamId": 363,
+        "teamName": "Mohun Bagan",
+        "teamSName": "MB",
+        "imageId": 172416,
+        "countryName": "India"
+      },
+      {
+        "teamId": 364,
+        "teamName": "Bhowanipore",
+        "teamSName": "BPC",
+        "imageId": 172417,
+        "countryName": "India"
+      },
+      {
+        "teamId": 391,
+        "teamName": "Cape cobras",
+        "teamSName": "CAPE",
+        "imageId": 172444
+      },
+      {
+        "teamId": 398,
+        "teamName": "UWI Vice Chancellors XI",
+        "teamSName": "UWIVCXI",
+        "imageId": 172451
+      },
+      {
+        "teamId": 402,
+        "teamName": "North",
+        "teamSName": "NORTH",
+        "imageId": 172454
+      },
+      {
+        "teamId": 403,
+        "teamName": "South",
+        "teamSName": "SOUTH",
+        "imageId": 172455
+      },
+      {
+        "teamId": 404,
+        "teamName": "MCC World XI",
+        "teamSName": "MCCWXI",
+        "imageId": 248431
+      },
+      {
+        "teamId": 405,
+        "teamName": "India U23",
+        "teamSName": "INDU23",
+        "imageId": 172456,
+        "countryName": "India"
+      },
+      {
+        "teamId": 406,
+        "teamName": "Pakistan U23",
+        "teamSName": "PAKU23",
+        "imageId": 252360
+      },
+      {
+        "teamId": 407,
+        "teamName": "Sri Lanka U23",
+        "teamSName": "SLU23",
+        "imageId": 172458
+      },
+      {
+        "teamId": 408,
+        "teamName": "Bangladesh U23",
+        "teamSName": "BANU23",
+        "imageId": 252355
+      },
+      {
+        "teamId": 387,
+        "teamName": "Singapore U19",
+        "teamSName": "SINU19",
+        "imageId": 172440
+      },
+      {
+        "teamId": 386,
+        "teamName": "Malaysia U19",
+        "teamSName": "MLYU19",
+        "imageId": 172439
+      },
+      {
+        "teamId": 365,
+        "teamName": "Sri Lanka XI",
+        "teamSName": "SLXI",
+        "imageId": 172418
+      },
+      {
+        "teamId": 374,
+        "teamName": "Pakistan Cricket Board Patrons XI",
+        "teamSName": "PCBPXI",
+        "imageId": 172427
+      },
+      {
+        "teamId": 375,
+        "teamName": "Chhattisgarh",
+        "teamSName": "CG",
+        "imageId": 172428,
+        "countryName": "India"
+      },
+      {
+        "teamId": 376,
+        "teamName": "Emirates Cricket Board XI",
+        "teamSName": "EMCBXI",
+        "imageId": 172429
+      },
+      {
+        "teamId": 377,
+        "teamName": "BCB Select XI",
+        "teamSName": "BCBSXI",
+        "imageId": 172430
+      },
+      {
+        "teamId": 380,
+        "teamName": "South Australia XI",
+        "teamSName": "SACAXI",
+        "imageId": 172433
+      },
+      {
+        "teamId": 381,
+        "teamName": "Victoria XI",
+        "teamSName": "VICXI",
+        "imageId": 172434
+      },
+      {
+        "teamId": 384,
+        "teamName": "Thailand",
+        "teamSName": "THAI",
+        "imageId": 172437
+      },
+      {
+        "teamId": 385,
+        "teamName": "Birmingham Bears",
+        "teamSName": "BIRM",
+        "imageId": 172438
+      },
+      {
+        "teamId": 424,
+        "teamName": "Kenya U19",
+        "teamSName": "KENU19",
+        "imageId": 172474
+      },
+      {
+        "teamId": 241,
+        "teamName": "Andhra",
+        "teamSName": "AP",
+        "imageId": 172294,
+        "countryName": "India"
+      },
+      {
+        "teamId": 253,
+        "teamName": "Goa",
+        "teamSName": "GOA",
+        "imageId": 172306,
+        "countryName": "India"
+      },
+      {
+        "teamId": 254,
+        "teamName": "Maharashtra",
+        "teamSName": "MAH",
+        "imageId": 172307,
+        "countryName": "India"
+      },
+      {
+        "teamId": 261,
+        "teamName": "Unicorns",
+        "teamSName": "UNI",
+        "imageId": 172314
+      },
+      {
+        "teamId": 266,
+        "teamName": "Australians",
+        "teamSName": "AUSN",
+        "imageId": 172319
+      },
+      {
+        "teamId": 267,
+        "teamName": "South African Invitation XI",
+        "teamSName": "RSAIXI",
+        "imageId": 172320
+      },
+      {
+        "teamId": 268,
+        "teamName": "South Africa A",
+        "teamSName": "RSAA",
+        "imageId": 172321
+      },
+      {
+        "teamId": 269,
+        "teamName": "Zimbabwe XI",
+        "teamSName": "ZIMXI",
+        "imageId": 172322
+      },
+      {
+        "teamId": 272,
+        "teamName": "Basnahira Greens",
+        "teamSName": "BG",
+        "imageId": 174284
+      },
+      {
+        "teamId": 273,
+        "teamName": "Uthura Yellows",
+        "teamSName": "UY",
+        "imageId": 248459
+      },
+      {
+        "teamId": 252,
+        "teamName": "Jammu and Kashmir",
+        "teamSName": "JK",
+        "imageId": 172305,
+        "countryName": "India"
+      },
+      {
+        "teamId": 251,
+        "teamName": "Himachal Pradesh",
+        "teamSName": "HP",
+        "imageId": 172304,
+        "countryName": "India"
+      },
+      {
+        "teamId": 242,
+        "teamName": "Hyderabad",
+        "teamSName": "HYD",
+        "imageId": 172295,
+        "countryName": "India"
+      },
+      {
+        "teamId": 243,
+        "teamName": "Jharkhand",
+        "teamSName": "JHKD",
+        "imageId": 172296,
+        "countryName": "India"
+      },
+      {
+        "teamId": 244,
+        "teamName": "Kerala",
+        "teamSName": "KER",
+        "imageId": 172297,
+        "countryName": "India"
+      },
+      {
+        "teamId": 245,
+        "teamName": "Punjab",
+        "teamSName": "PUN",
+        "imageId": 172298,
+        "countryName": "India"
+      },
+      {
+        "teamId": 246,
+        "teamName": "Railways",
+        "teamSName": "RLYS",
+        "imageId": 172299,
+        "countryName": "India"
+      },
+      {
+        "teamId": 247,
+        "teamName": "Tripura",
+        "teamSName": "TRI",
+        "imageId": 172300,
+        "countryName": "India"
+      },
+      {
+        "teamId": 248,
+        "teamName": "Vidarbha",
+        "teamSName": "VID",
+        "imageId": 172301,
+        "countryName": "India"
+      },
+      {
+        "teamId": 249,
+        "teamName": "Odisha",
+        "teamSName": "ODSA",
+        "imageId": 172302,
+        "countryName": "India"
+      },
+      {
+        "teamId": 250,
+        "teamName": "Services",
+        "teamSName": "SER",
+        "imageId": 172303,
+        "countryName": "India"
+      },
+      {
+        "teamId": 274,
+        "teamName": "Kandurata Maroons",
+        "teamSName": "KM",
+        "imageId": 172326
+      },
+      {
+        "teamId": 275,
+        "teamName": "Ruhuna Reds",
+        "teamSName": "RHR",
+        "imageId": 248447
+      },
+      {
+        "teamId": 290,
+        "teamName": "Marylebone Cricket Club",
+        "teamSName": "MCC",
+        "imageId": 172339
+      },
+      {
+        "teamId": 291,
+        "teamName": "National Performance Squad",
+        "teamSName": "NPS",
+        "imageId": 172340
+      },
+      {
+        "teamId": 292,
+        "teamName": "Southern Express",
+        "teamSName": "SE",
+        "imageId": 172341
+      },
+      {
+        "teamId": 293,
+        "teamName": "Lahore Lions",
+        "teamSName": "LHL",
+        "imageId": 172342
+      },
+      {
+        "teamId": 294,
+        "teamName": "Northern Knights",
+        "teamSName": "NK",
+        "imageId": 172343
+      },
+      {
+        "teamId": 295,
+        "teamName": "WICB",
+        "teamSName": "WICB",
+        "imageId": 172344
+      },
+      {
+        "teamId": 296,
+        "teamName": "Mumbai Board Presidents XI",
+        "teamSName": "MBPXI",
+        "imageId": 172345,
+        "countryName": "India"
+      },
+      {
+        "teamId": 297,
+        "teamName": "West Indians",
+        "teamSName": "WINDS",
+        "imageId": 172346
+      },
+      {
+        "teamId": 299,
+        "teamName": "South Korea",
+        "teamSName": "SKR",
+        "imageId": 172348
+      },
+      {
+        "teamId": 289,
+        "teamName": "Rest of the World XI",
+        "teamSName": "ROWXI",
+        "imageId": 172338
+      },
+      {
+        "teamId": 288,
+        "teamName": "Bangladesh A",
+        "teamSName": "BANA",
+        "imageId": 172337
+      },
+      {
+        "teamId": 276,
+        "teamName": "Indians",
+        "teamSName": "INDS",
+        "imageId": 172327,
+        "countryName": "India"
+      },
+      {
+        "teamId": 277,
+        "teamName": "Western Australia Chairmans XI",
+        "teamSName": "WACXI",
+        "imageId": 172328
+      },
+      {
+        "teamId": 278,
+        "teamName": "Cricket Australia Invitational XI",
+        "teamSName": "AUIXI",
+        "imageId": 172329
+      },
+      {
+        "teamId": 279,
+        "teamName": "Prime Ministers XI",
+        "teamSName": "PMXI",
+        "imageId": 172330,
+        "countryName": "Australia"
+      },
+      {
+        "teamId": 281,
+        "teamName": "Knights",
+        "teamSName": "KNG",
+        "imageId": 172331
+      },
+      {
+        "teamId": 282,
+        "teamName": "Canada U19",
+        "teamSName": "CANU19",
+        "imageId": 172332
+      },
+      {
+        "teamId": 283,
+        "teamName": "United Arab Emirates U19",
+        "teamSName": "UAEU19",
+        "imageId": 172333
+      },
+      {
+        "teamId": 285,
+        "teamName": "Morocco",
+        "teamSName": "MOR",
+        "imageId": 172334
+      },
+      {
+        "teamId": 286,
+        "teamName": "New Zealand XI",
+        "teamSName": "NZXI",
+        "imageId": 172335
+      },
+      {
+        "teamId": 301,
+        "teamName": "Australian Legends XI",
+        "teamSName": "ALXI",
+        "imageId": 172350
+      }
+    ],
+    "appIndex": {
+      "seoTitle": "Live cricket scores, schedule, news, archive, series | Cricbuzz.com",
+      "webURL": "www.cricbuzz.com/cricket-team/"
+    }
+  }

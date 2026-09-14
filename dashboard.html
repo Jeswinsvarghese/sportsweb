@@ -1,0 +1,45 @@
+{% extends "admin/admin_base.html" %}
+
+{% block title %}Admin Dashboard{% endblock %}
+
+{% block page_title %}Feedback Management{% endblock %}
+
+{% block content %}
+<table class="feedback-table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Message</th>
+            <th>Submitted On</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in feedback %}
+        <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.message }}</td>
+            <td>{{ item.timestamp.strftime('%Y-%m-%d %H:%M') }}</td>
+            <td>
+                {% if item.is_approve %}
+                    <span class="status-approved">Approved</span>
+                {% else %}
+                    <span class="status-pending">Pending</span>
+                {% endif %}
+            </td>
+            <td class="action-links">
+                {% if not item.is_approve %}
+                <a href="{{ url_for('approve_feedback', feedback_id=item._id) }}" class="approve-link">Approve</a>
+                {% endif %}
+                <a href="{{ url_for('delete_feedback', feedback_id=item._id) }}" class="delete-link">Delete</a>
+            </td>
+        </tr>
+        {% else %}
+        <tr>
+            <td colspan="5">No feedback submissions yet.</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %} 

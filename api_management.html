@@ -1,0 +1,74 @@
+{% extends "admin/admin_base.html" %}
+
+{% block title %}API Management{% endblock %}
+
+{% block page_title %}API Key Management{% endblock %}
+
+{% block content %}
+<div class="api-management-container">
+    <p class="page-description">
+        Here you can manage the API keys for the different services used by the application.
+        You can set a custom API key for each service. If a custom key is rate-limited (429 Error), the system will automatically revert to the default key and send an email notification.
+    </p>
+    
+    {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="flash-message flash-{{ category }}">{{ message }}</div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
+
+    <div class="api-key-cards">
+        <!-- Cricbuzz API Key Card -->
+        <div class="api-card">
+            <h3>Cricbuzz API (Live Scores & Players)</h3>
+            <div class="key-status">
+                <span class="status-label">Status:</span>
+                {% if keys_status.cricbuzz.is_custom %}
+                    <span class="status-tag status-custom">CUSTOM</span>
+                {% else %}
+                    <span class="status-tag status-default">DEFAULT</span>
+                {% endif %}
+            </div>
+            <div class="key-display">
+                <span class="key-label">Current Key:</span>
+                <span class="key-value">{{ keys_status.cricbuzz.key }}</span>
+            </div>
+            <form method="POST" action="{{ url_for('api_management') }}">
+                <input type="hidden" name="service" value="cricbuzz">
+                <div class="form-group">
+                    <label for="cricbuzz-key">Set New Custom Key:</label>
+                    <input type="text" id="cricbuzz-key" name="key" placeholder="Enter new Cricbuzz API key" required>
+                </div>
+                <button type="submit" class="save-btn">Save Key</button>
+            </form>
+        </div>
+
+
+        <div class="api-card">
+            <h3>News API (NewsData.io)</h3>
+            <div class="key-status">
+                <span class="status-label">Status:</span>
+                {% if keys_status.news.is_custom %}
+                    <span class="status-tag status-custom">CUSTOM</span>
+                {% else %}
+                    <span class="status-tag status-default">DEFAULT</span>
+                {% endif %}
+            </div>
+            <div class="key-display">
+                <span class="key-label">Current Key:</span>
+                <span class="key-value">{{ keys_status.news.key }}</span>
+            </div>
+            <form method="POST" action="{{ url_for('api_management') }}">
+                <input type="hidden" name="service" value="news">
+                <div class="form-group">
+                    <label for="news-key">Set New Custom Key:</label>
+                    <input type="text" id="news-key" name="key" placeholder="Enter new News API key" required>
+                </div>
+                <button type="submit" class="save-btn">Save Key</button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %} 

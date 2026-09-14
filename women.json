@@ -1,0 +1,1025 @@
+{
+    "list": [
+      {
+        "teamName": "Women Teams"
+      },
+      {
+        "teamId": 1444,
+        "teamName": "Maldives Women",
+        "teamSName": "MDVW",
+        "imageId": 254832
+      },
+      {
+        "teamId": 1363,
+        "teamName": "Pakistan Women U19",
+        "teamSName": "PAKWU19",
+        "imageId": 252359
+      },
+      {
+        "teamId": 1361,
+        "teamName": "Sri Lanka Women U19",
+        "teamSName": "SLWU19",
+        "imageId": 252353
+      },
+      {
+        "teamId": 1356,
+        "teamName": "India Women U19",
+        "teamSName": "INDWU19",
+        "imageId": 252371,
+        "countryName": "India"
+      },
+      {
+        "teamId": 1354,
+        "teamName": "South Africa Women U19",
+        "teamSName": "RSAWU19",
+        "imageId": 252370
+      },
+      {
+        "teamId": 1347,
+        "teamName": "United Arab Emirates Women U19",
+        "teamSName": "UAEWU19",
+        "imageId": 252368
+      },
+      {
+        "teamId": 1342,
+        "teamName": "Scotland Women U19",
+        "teamSName": "SCOWU19",
+        "imageId": 252367
+      },
+      {
+        "teamId": 1335,
+        "teamName": "Bangladesh Women U19",
+        "teamSName": "BANWU19",
+        "imageId": 252354
+      },
+      {
+        "teamId": 1328,
+        "teamName": "Australia Women U19",
+        "teamSName": "AUSWU19",
+        "imageId": 252350
+      },
+      {
+        "teamId": 1368,
+        "teamName": "Rwanda Women U19",
+        "teamSName": "RWAWU19",
+        "imageId": 252361
+      },
+      {
+        "teamId": 1375,
+        "teamName": "Ireland Women U19",
+        "teamSName": "IREWU19",
+        "imageId": 252365
+      },
+      {
+        "teamId": 1431,
+        "teamName": "Mexico Women",
+        "teamSName": "MEXW",
+        "imageId": 254833,
+        "countryName": "Mexico"
+      },
+      {
+        "teamId": 1426,
+        "teamName": "Canada Women",
+        "teamSName": "CANW",
+        "imageId": 253473
+      },
+      {
+        "teamId": 1405,
+        "teamName": "United States of America Women U19",
+        "teamSName": "USAWU19",
+        "imageId": 252352,
+        "countryName": "United States of America"
+      },
+      {
+        "teamId": 1403,
+        "teamName": "Zimbabwe Women U19",
+        "teamSName": "ZIMWU19",
+        "imageId": 252356
+      },
+      {
+        "teamId": 1398,
+        "teamName": "England Women U19",
+        "teamSName": "ENGWU19",
+        "imageId": 252357
+      },
+      {
+        "teamId": 1391,
+        "teamName": "New Zealand Women U19",
+        "teamSName": "NZWU19",
+        "imageId": 252363
+      },
+      {
+        "teamId": 1384,
+        "teamName": "Indonesia Women U19",
+        "teamSName": "IDNWU19",
+        "imageId": 252362
+      },
+      {
+        "teamId": 1382,
+        "teamName": "West Indies Women U19",
+        "teamSName": "WIWU19",
+        "imageId": 252364
+      },
+      {
+        "teamId": 1207,
+        "teamName": "Young England Women",
+        "teamSName": "YEW",
+        "imageId": 174284
+      },
+      {
+        "teamId": 1200,
+        "teamName": "Jamaica Women",
+        "teamSName": "JW",
+        "imageId": 174284
+      },
+      {
+        "teamId": 1195,
+        "teamName": "Trinidad & Tobago Women",
+        "teamSName": "TTW",
+        "imageId": 248456
+      },
+      {
+        "teamId": 1055,
+        "teamName": "Norway Women",
+        "teamSName": "NOYW",
+        "imageId": 247202
+      },
+      {
+        "teamId": 1048,
+        "teamName": "Sweden Women",
+        "teamSName": "SWEW",
+        "imageId": 248453
+      },
+      {
+        "teamId": 1034,
+        "teamName": "Spain Women",
+        "teamSName": "SPW",
+        "imageId": 248449
+      },
+      {
+        "teamId": 1032,
+        "teamName": "Jersey Women",
+        "teamSName": "JERW",
+        "imageId": 248421
+      },
+      {
+        "teamId": 1011,
+        "teamName": "Barbados Women",
+        "teamSName": "BAW",
+        "imageId": 239937
+      },
+      {
+        "teamId": 961,
+        "teamName": "India D Women",
+        "teamSName": "INDWD",
+        "imageId": 248605,
+        "countryName": "India"
+      },
+      {
+        "teamId": 902,
+        "teamName": "Turkey Women",
+        "teamSName": "TRKW",
+        "imageId": 247209
+      },
+      {
+        "teamId": 838,
+        "teamName": "New Zealand XI Women",
+        "teamSName": "NZWXI",
+        "imageId": 174284
+      },
+      {
+        "teamId": 1083,
+        "teamName": "Bahrain Women",
+        "teamSName": "BHRW",
+        "imageId": 248395
+      },
+      {
+        "teamId": 1090,
+        "teamName": "Bhutan Women",
+        "teamSName": "BTNW",
+        "imageId": 248397
+      },
+      {
+        "teamId": 1188,
+        "teamName": "International XI Women",
+        "teamSName": "INTXIW",
+        "imageId": 174284
+      },
+      {
+        "teamId": 1181,
+        "teamName": "Fiji Women",
+        "teamSName": "FIJIW",
+        "imageId": 248411
+      },
+      {
+        "teamId": 1144,
+        "teamName": "Guyana Amazon Warriors Women",
+        "teamSName": "GAWW",
+        "imageId": 241607
+      },
+      {
+        "teamId": 1139,
+        "teamName": "Trinbago Knight Riders Women",
+        "teamSName": "TKRW",
+        "imageId": 241610
+      },
+      {
+        "teamId": 1137,
+        "teamName": "Barbados Royals Women",
+        "teamSName": "BRW",
+        "imageId": 241608
+      },
+      {
+        "teamId": 1125,
+        "teamName": "Italy Women",
+        "teamSName": "ITAW",
+        "imageId": 248417
+      },
+      {
+        "teamId": 1104,
+        "teamName": "Guernsey Women",
+        "teamSName": "GGYW",
+        "imageId": 539690
+      },
+      {
+        "teamId": 1097,
+        "teamName": "Kuwait Women",
+        "teamSName": "KUWW",
+        "imageId": 248426
+      },
+      {
+        "teamId": 775,
+        "teamName": "Austria Women",
+        "teamSName": "AUTW",
+        "imageId": 274436
+      },
+      {
+        "teamId": 2390,
+        "teamName": "Switzerland Women",
+        "teamSName": "SUIW",
+        "imageId": 692942,
+        "countryName": "Switzerland"
+      },
+      {
+        "teamId": 1987,
+        "teamName": "Czech Republic Women",
+        "teamSName": "CZEW",
+        "imageId": 501075,
+        "countryName": "Czech Republic"
+      },
+      {
+        "teamId": 1985,
+        "teamName": "Zimbabwe A Women",
+        "teamSName": "ZIMAW",
+        "imageId": 174284,
+        "countryName": "Zimbabwe"
+      },
+      {
+        "teamId": 1796,
+        "teamName": "Mongolia Women",
+        "teamSName": "MGLW",
+        "imageId": 349599
+      },
+      {
+        "teamId": 1794,
+        "teamName": "Luxembourg Women",
+        "teamSName": "LUXW",
+        "imageId": 349590
+      },
+      {
+        "teamId": 1789,
+        "teamName": "Serbia Women",
+        "teamSName": "SRBW",
+        "imageId": 349600
+      },
+      {
+        "teamId": 1754,
+        "teamName": "Cook Islands Women",
+        "teamSName": "CISW",
+        "imageId": 341074
+      },
+      {
+        "teamId": 1675,
+        "teamName": "Romania Women",
+        "teamSName": "ROMW",
+        "imageId": 338249
+      },
+      {
+        "teamId": 1668,
+        "teamName": "Greece Women",
+        "teamSName": "GRCW",
+        "imageId": 338104
+      },
+      {
+        "teamId": 1992,
+        "teamName": "Cyprus Women",
+        "teamSName": "CYPW",
+        "imageId": 502582,
+        "countryName": "Cyprus"
+      },
+      {
+        "teamId": 1994,
+        "teamName": "Croatia Women",
+        "teamSName": "CRTW",
+        "imageId": 501076,
+        "countryName": "Croatia"
+      },
+      {
+        "teamId": 2380,
+        "teamName": "Portugal Women",
+        "teamSName": "PORTW",
+        "imageId": 625937,
+        "countryName": "Portugal"
+      },
+      {
+        "teamId": 2286,
+        "teamName": "Nigeria Women U19",
+        "teamSName": "NGAWU19",
+        "imageId": 601867,
+        "countryName": "Nigeria"
+      },
+      {
+        "teamId": 2201,
+        "teamName": "Bulgaria Women",
+        "teamSName": "BGRW",
+        "imageId": 692936,
+        "countryName": "Bulgaria"
+      },
+      {
+        "teamId": 2179,
+        "teamName": "Cayman Islands Women",
+        "teamSName": "CAYMW",
+        "imageId": 551465,
+        "countryName": "Cayman Islands"
+      },
+      {
+        "teamId": 2146,
+        "teamName": "Samoa Women U19",
+        "teamSName": "WSMWU19",
+        "imageId": 551467,
+        "countryName": "Samoa"
+      },
+      {
+        "teamId": 2138,
+        "teamName": "Malaysia Women U19",
+        "teamSName": "MLYWU19",
+        "imageId": 551466,
+        "countryName": "Malaysia"
+      },
+      {
+        "teamId": 2071,
+        "teamName": "Australian Capital Territory Women",
+        "teamSName": "ACT Meteors",
+        "imageId": 538208,
+        "countryName": "Australia"
+      },
+      {
+        "teamId": 2062,
+        "teamName": "Finland Women",
+        "teamSName": "FINW",
+        "imageId": 539543,
+        "countryName": "Finland"
+      },
+      {
+        "teamId": 1563,
+        "teamName": "Mali Women",
+        "teamSName": "MALIW",
+        "imageId": 333457
+      },
+      {
+        "teamId": 1556,
+        "teamName": "Sri Lanka A Women",
+        "teamSName": "SLWA",
+        "imageId": 333456
+      },
+      {
+        "teamId": 1552,
+        "teamName": "Pakistan A Women",
+        "teamSName": "PAKWA",
+        "imageId": 333455
+      },
+      {
+        "teamId": 1493,
+        "teamName": "Cameroon Women",
+        "teamSName": "CAMW",
+        "imageId": 273974
+      },
+      {
+        "teamId": 1489,
+        "teamName": "Ghana Women",
+        "teamSName": "GHW",
+        "imageId": 273958
+      },
+      {
+        "teamId": 1482,
+        "teamName": "Nigeria Women",
+        "teamSName": "NGAW",
+        "imageId": 273957
+      },
+      {
+        "teamId": 1479,
+        "teamName": "Gujarat Giants Women",
+        "teamSName": "GGTW",
+        "imageId": 254722
+      },
+      {
+        "teamId": 1472,
+        "teamName": "UP Warriorz Women",
+        "teamSName": "UPW",
+        "imageId": 254738
+      },
+      {
+        "teamId": 1468,
+        "teamName": "Mumbai Indians Women",
+        "teamSName": "MIW",
+        "imageId": 254724
+      },
+      {
+        "teamId": 1465,
+        "teamName": "Royal Challengers Bengaluru Women",
+        "teamSName": "RCBW",
+        "imageId": 254725
+      },
+      {
+        "teamId": 1461,
+        "teamName": "Delhi Capitals Women",
+        "teamSName": "DCW",
+        "imageId": 254726
+      },
+      {
+        "teamId": 1500,
+        "teamName": "Malta Women",
+        "teamSName": "MALW",
+        "imageId": 297979
+      },
+      {
+        "teamId": 1507,
+        "teamName": "Gibraltar Women",
+        "teamSName": "GIBW",
+        "imageId": 297980
+      },
+      {
+        "teamId": 1549,
+        "teamName": "Bangladesh A Women",
+        "teamSName": "BANWA",
+        "imageId": 333453
+      },
+      {
+        "teamId": 1542,
+        "teamName": "Thailand A Women",
+        "teamSName": "THAIAW",
+        "imageId": 329024
+      },
+      {
+        "teamId": 1535,
+        "teamName": "Eswatini Women",
+        "teamSName": "SWTW",
+        "imageId": 329003
+      },
+      {
+        "teamId": 1531,
+        "teamName": "Costa Rica Women",
+        "teamSName": "CRW",
+        "imageId": 329002,
+        "countryName": "Costa Rica"
+      },
+      {
+        "teamId": 1528,
+        "teamName": "Belize Women",
+        "teamSName": "BEZW",
+        "imageId": 329001
+      },
+      {
+        "teamId": 1521,
+        "teamName": "Estonia Women",
+        "teamSName": "ESTW",
+        "imageId": 315349
+      },
+      {
+        "teamId": 1517,
+        "teamName": "Myanmar Women",
+        "teamSName": "MMRW",
+        "imageId": 307474
+      },
+      {
+        "teamId": 1514,
+        "teamName": "Philippines Women",
+        "teamSName": "PHIW",
+        "imageId": 307469
+      },
+      {
+        "teamId": 1454,
+        "teamName": "Cambodia Women",
+        "teamSName": "CBDW",
+        "imageId": 254835
+      },
+      {
+        "teamId": 482,
+        "teamName": "Samoa Women",
+        "teamSName": "WSMW",
+        "imageId": 172530
+      },
+      {
+        "teamId": 422,
+        "teamName": "Surrey Stars",
+        "teamSName": "SST",
+        "imageId": 172472
+      },
+      {
+        "teamId": 421,
+        "teamName": "Loughborough Lightning",
+        "teamSName": "LBL",
+        "imageId": 172471
+      },
+      {
+        "teamId": 420,
+        "teamName": "Lancashire Thunder",
+        "teamSName": "LT",
+        "imageId": 172470
+      },
+      {
+        "teamId": 419,
+        "teamName": "Yorkshire Diamonds",
+        "teamSName": "YD",
+        "imageId": 172469
+      },
+      {
+        "teamId": 418,
+        "teamName": "Western Storm",
+        "teamSName": "WS",
+        "imageId": 172468
+      },
+      {
+        "teamId": 417,
+        "teamName": "Southern Vipers",
+        "teamSName": "SV",
+        "imageId": 172467
+      },
+      {
+        "teamId": 390,
+        "teamName": "Papua New Guinea Women",
+        "teamSName": "PNGW",
+        "imageId": 172443
+      },
+      {
+        "teamId": 389,
+        "teamName": "Scotland Women",
+        "teamSName": "SCOW",
+        "imageId": 252366
+      },
+      {
+        "teamId": 439,
+        "teamName": "South Africa Emerging Players Women",
+        "teamSName": "SAEW",
+        "imageId": 349592
+      },
+      {
+        "teamId": 440,
+        "teamName": "India A Women",
+        "teamSName": "INDWA",
+        "imageId": 333769,
+        "countryName": "India"
+      },
+      {
+        "teamId": 459,
+        "teamName": "India Women Green",
+        "teamSName": "INDWG",
+        "imageId": 172507,
+        "countryName": "India"
+      },
+      {
+        "teamId": 458,
+        "teamName": "India Women Blue",
+        "teamSName": "INDWB",
+        "imageId": 172506,
+        "countryName": "India"
+      },
+      {
+        "teamId": 457,
+        "teamName": "India Women Red",
+        "teamSName": "INDWR",
+        "imageId": 172505,
+        "countryName": "India"
+      },
+      {
+        "teamId": 449,
+        "teamName": "United Arab Emirates Women",
+        "teamSName": "UAEW",
+        "imageId": 252369
+      },
+      {
+        "teamId": 448,
+        "teamName": "Uganda Women",
+        "teamSName": "UGAW",
+        "imageId": 172496
+      },
+      {
+        "teamId": 447,
+        "teamName": "Supernovas",
+        "teamSName": "SPN",
+        "imageId": 234642,
+        "countryName": "India"
+      },
+      {
+        "teamId": 446,
+        "teamName": "Trailblazers",
+        "teamSName": "TRL",
+        "imageId": 234641,
+        "countryName": "India"
+      },
+      {
+        "teamId": 445,
+        "teamName": "Malaysia Women",
+        "teamSName": "MLYW",
+        "imageId": 172493
+      },
+      {
+        "teamId": 388,
+        "teamName": "Zimbabwe Women",
+        "teamSName": "ZIMW",
+        "imageId": 172441
+      },
+      {
+        "teamId": 383,
+        "teamName": "Nepal Women",
+        "teamSName": "NEPW",
+        "imageId": 172436
+      },
+      {
+        "teamId": 382,
+        "teamName": "Thailand Women",
+        "teamSName": "THAIW",
+        "imageId": 172435
+      },
+      {
+        "teamId": 259,
+        "teamName": "Pakistan Women",
+        "teamSName": "PAKW",
+        "imageId": 172312
+      },
+      {
+        "teamId": 258,
+        "teamName": "Sri Lanka Women",
+        "teamSName": "SLW",
+        "imageId": 172311
+      },
+      {
+        "teamId": 257,
+        "teamName": "West Indies Women",
+        "teamSName": "WIW",
+        "imageId": 172310
+      },
+      {
+        "teamId": 189,
+        "teamName": "Ireland Women",
+        "teamSName": "IREW",
+        "imageId": 172249
+      },
+      {
+        "teamId": 188,
+        "teamName": "Netherlands Women",
+        "teamSName": "NEDW",
+        "imageId": 172248
+      },
+      {
+        "teamId": 100,
+        "teamName": "Australia Women",
+        "teamSName": "AUSW",
+        "imageId": 172192
+      },
+      {
+        "teamId": 99,
+        "teamName": "England Women",
+        "teamSName": "ENGW",
+        "imageId": 172191
+      },
+      {
+        "teamId": 98,
+        "teamName": "New Zealand Women",
+        "teamSName": "NZW",
+        "imageId": 172190
+      },
+      {
+        "teamId": 260,
+        "teamName": "South Africa Women",
+        "teamSName": "RSAW",
+        "imageId": 172313
+      },
+      {
+        "teamId": 329,
+        "teamName": "Bangladesh Women",
+        "teamSName": "BANW",
+        "imageId": 172377
+      },
+      {
+        "teamId": 362,
+        "teamName": "Sydney Thunder Women",
+        "teamSName": "SYTW",
+        "imageId": 172408
+      },
+      {
+        "teamId": 361,
+        "teamName": "Sydney Sixers Women",
+        "teamSName": "SYSW",
+        "imageId": 172407
+      },
+      {
+        "teamId": 360,
+        "teamName": "Perth Scorchers Women",
+        "teamSName": "PRSW",
+        "imageId": 172406
+      },
+      {
+        "teamId": 359,
+        "teamName": "Melbourne Stars Women",
+        "teamSName": "MLSW",
+        "imageId": 172405
+      },
+      {
+        "teamId": 358,
+        "teamName": "Melbourne Renegades Women",
+        "teamSName": "MLRW",
+        "imageId": 172404
+      },
+      {
+        "teamId": 357,
+        "teamName": "Hobart Hurricanes Women",
+        "teamSName": "HBHW",
+        "imageId": 172403
+      },
+      {
+        "teamId": 356,
+        "teamName": "Brisbane Heat Women",
+        "teamSName": "BRHW",
+        "imageId": 172402
+      },
+      {
+        "teamId": 355,
+        "teamName": "Adelaide Strikers Women",
+        "teamSName": "ADSW",
+        "imageId": 172401
+      },
+      {
+        "teamId": 97,
+        "teamName": "India Women",
+        "teamSName": "INDW",
+        "imageId": 172189,
+        "countryName": "India"
+      },
+      {
+        "teamId": 720,
+        "teamName": "Rwanda Women",
+        "teamSName": "RWAW",
+        "imageId": 248448
+      },
+      {
+        "teamId": 594,
+        "teamName": "India Women Board President XI",
+        "teamSName": "INDWBPXI",
+        "imageId": 174284,
+        "countryName": "India"
+      },
+      {
+        "teamId": 592,
+        "teamName": "United States of America Women",
+        "teamSName": "USAW",
+        "imageId": 241611,
+        "countryName": "United States of America"
+      },
+      {
+        "teamId": 530,
+        "teamName": "Velocity",
+        "teamSName": "VEL",
+        "imageId": 234643,
+        "countryName": "India"
+      },
+      {
+        "teamId": 509,
+        "teamName": "Singapore Women",
+        "teamSName": "SINW",
+        "imageId": 591999
+      },
+      {
+        "teamId": 508,
+        "teamName": "Denmark Women",
+        "teamSName": "DENW",
+        "imageId": 172557
+      },
+      {
+        "teamId": 507,
+        "teamName": "South Korea Women",
+        "teamSName": "SKRW",
+        "imageId": 172556
+      },
+      {
+        "teamId": 506,
+        "teamName": "Vanuatu Women",
+        "teamSName": "VANW",
+        "imageId": 172555
+      },
+      {
+        "teamId": 505,
+        "teamName": "Oman Women",
+        "teamSName": "OMANW",
+        "imageId": 172554
+      },
+      {
+        "teamId": 613,
+        "teamName": "Oval Invincibles Women",
+        "teamSName": "OVLW",
+        "imageId": 202714
+      },
+      {
+        "teamId": 614,
+        "teamName": "Welsh Fire Women",
+        "teamSName": "WELW",
+        "imageId": 202715
+      },
+      {
+        "teamId": 648,
+        "teamName": "India B Women",
+        "teamSName": "INDIAWB",
+        "imageId": 248603,
+        "countryName": "India"
+      },
+      {
+        "teamId": 639,
+        "teamName": "India C Women",
+        "teamSName": "INDWC",
+        "imageId": 248604,
+        "countryName": "India"
+      },
+      {
+        "teamId": 620,
+        "teamName": "Southern Brave Women",
+        "teamSName": "SOUW",
+        "imageId": 202721
+      },
+      {
+        "teamId": 619,
+        "teamName": "Northern Superchargers Women",
+        "teamSName": "NORW",
+        "imageId": 202720
+      },
+      {
+        "teamId": 618,
+        "teamName": "Trent Rockets Women",
+        "teamSName": "TREW",
+        "imageId": 202719
+      },
+      {
+        "teamId": 617,
+        "teamName": "Manchester Originals Women",
+        "teamSName": "MCRW",
+        "imageId": 202718
+      },
+      {
+        "teamId": 616,
+        "teamName": "London Spirit Women",
+        "teamSName": "LDNW",
+        "imageId": 202717
+      },
+      {
+        "teamId": 615,
+        "teamName": "Birmingham Phoenix Women",
+        "teamSName": "BRMW",
+        "imageId": 202716
+      },
+      {
+        "teamId": 504,
+        "teamName": "Germany Women",
+        "teamSName": "GERW",
+        "imageId": 172553
+      },
+      {
+        "teamId": 503,
+        "teamName": "Namibia Women",
+        "teamSName": "NAMW",
+        "imageId": 172552
+      },
+      {
+        "teamId": 502,
+        "teamName": "Hong Kong Women",
+        "teamSName": "HKW",
+        "imageId": 172551
+      },
+      {
+        "teamId": 491,
+        "teamName": "Brazil Women",
+        "teamSName": "BRAW",
+        "imageId": 172539
+      },
+      {
+        "teamId": 490,
+        "teamName": "Sierra Leone Women",
+        "teamSName": "SLEW",
+        "imageId": 172538
+      },
+      {
+        "teamId": 489,
+        "teamName": "Argentina Women",
+        "teamSName": "ARGW",
+        "imageId": 172537
+      },
+      {
+        "teamId": 488,
+        "teamName": "Botswana Women",
+        "teamSName": "BWAW",
+        "imageId": 172536
+      },
+      {
+        "teamId": 487,
+        "teamName": "Japan Women",
+        "teamSName": "JPNW",
+        "imageId": 248419
+      },
+      {
+        "teamId": 486,
+        "teamName": "China Women",
+        "teamSName": "CHNW",
+        "imageId": 172534
+      },
+      {
+        "teamId": 485,
+        "teamName": "Qatar Women",
+        "teamSName": "QATW",
+        "imageId": 172533
+      },
+      {
+        "teamId": 484,
+        "teamName": "Indonesia Women",
+        "teamSName": "IDNW",
+        "imageId": 172532
+      },
+      {
+        "teamId": 492,
+        "teamName": "France Women",
+        "teamSName": "FRAW",
+        "imageId": 172540
+      },
+      {
+        "teamId": 493,
+        "teamName": "Mozambique Women",
+        "teamSName": "MOZW",
+        "imageId": 172541
+      },
+      {
+        "teamId": 501,
+        "teamName": "Kenya Women",
+        "teamSName": "KENW",
+        "imageId": 172550
+      },
+      {
+        "teamId": 500,
+        "teamName": "Swaziland Women",
+        "teamSName": "SWZW",
+        "imageId": 172549
+      },
+      {
+        "teamId": 499,
+        "teamName": "Lesotho Women",
+        "teamSName": "LSOW",
+        "imageId": 172548
+      },
+      {
+        "teamId": 498,
+        "teamName": "Peru Women",
+        "teamSName": "PERW",
+        "imageId": 172547
+      },
+      {
+        "teamId": 497,
+        "teamName": "Chile Women",
+        "teamSName": "CHLW",
+        "imageId": 172546
+      },
+      {
+        "teamId": 496,
+        "teamName": "Belgium Women",
+        "teamSName": "BELW",
+        "imageId": 172544
+      },
+      {
+        "teamId": 495,
+        "teamName": "Malawi Women",
+        "teamSName": "MWIW",
+        "imageId": 172543
+      },
+      {
+        "teamId": 494,
+        "teamName": "Zambia Women",
+        "teamSName": "ZMBW",
+        "imageId": 172542
+      },
+      {
+        "teamId": 483,
+        "teamName": "Tanzania Women",
+        "teamSName": "TANW",
+        "imageId": 172531
+      }
+    ],
+    "appIndex": {
+      "seoTitle": "Live cricket scores, schedule, news, archive, series | Cricbuzz.com",
+      "webURL": "www.cricbuzz.com/cricket-team/"
+    }
+  }

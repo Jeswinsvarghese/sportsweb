@@ -1,0 +1,203 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main.main-content {
+    flex: 1;
+}
+
+.hero {
+    background: linear-gradient(to right, #9226db, #36dfd9, #9226db);
+    background-size: 200% auto;
+    animation: background-flow 10s linear infinite;
+    height: auto;
+    padding: 60px 20px;
+    border-bottom: 1px solid transparent;
+}
+
+.live-scores-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.match-type-container h2 {
+  font-size: 2rem;
+  color: var(--text-primary);
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+}
+
+.series-container {
+  margin-bottom: 30px;
+}
+
+.series-container h3 {
+  font-size: 1.5rem;
+  color: var(--text-secondary);
+  background-color: transparent;
+  padding: 12px 0;
+  border-radius: 0;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.score-card-cricket {
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  margin-bottom: 20px;
+  padding: 25px;
+  border: 1px solid var(--border-color);
+  transition: background-color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.score-card-cricket:hover {
+  background: #282828;
+}
+
+body.light-theme .score-card-cricket:hover {
+  background-color: #f8f9fa;
+  border-color: #dee2e6;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.match-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.match-state {
+  font-weight: 600;
+  padding: 5px 12px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  color: #000;
+  background-color: var(--accent-primary);
+}
+
+.match-state.complete {
+  background-color: var(--text-secondary);
+  color: var(--bg-primary);
+}
+
+.team-scores {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+}
+
+.team-info {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--border-color);
+}
+.team-info:last-of-type {
+  border-bottom: none;
+}
+
+body:not(.light-theme) .team-info.batting .team-name::after {
+    content: '🏏';
+    margin-left: 10px;
+    filter: invert(1);
+}
+
+body.light-theme .team-info.batting .team-name::after {
+    content: '🏏';
+    margin-left: 10px;
+}
+
+.team-name {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.score {
+  font-size: 1.1rem;
+  color: var(--text-primary);
+  font-weight: 500;
+}
+
+.match-status-cricket {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--accent-primary);
+  text-align: center;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-color);
+}
+
+.match-format {
+  font-weight: 400;
+  color: var(--text-secondary);
+}
+
+.venue-info {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid var(--border-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.match-date {
+  font-style: normal;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+    .live-scores-container {
+        padding: 10px;
+    }
+
+    .match-type-container h2 {
+        font-size: 1.8rem;
+    }
+
+    .series-container h3 {
+        font-size: 1.3rem;
+    }
+
+    .score-card-cricket {
+        padding: 20px;
+    }
+}
+
+@media (max-width: 480px) {
+    .match-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .match-state {
+        align-self: flex-start;
+    }
+
+    .team-info {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+
+    .score {
+        padding-left: 10px;
+    }
+
+    .venue-info {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+}
+
