@@ -50,3 +50,25 @@ SportsWeb/
 ├── README.md
 ├── LICENSE
 └── .gitignore
+⚙️ Installation
+1. Clone the repository
+git clone https://github.com/YOUR-USERNAME/sportsweb.git
+cd sportsweb
+2. Install the required packages
+pip install flask requests pymongo
+3. Configure MongoDB
+
+Create your own MongoDB database and add the connection string through an environment variable.
+
+Create a .env file:
+
+MONGO_URI=your_mongodb_connection_string
+
+Do not upload the .env file to GitHub.
+
+4. Run the application
+python app.py
+
+Open the website in your browser:
+
+http://127.0.0.1:5000
